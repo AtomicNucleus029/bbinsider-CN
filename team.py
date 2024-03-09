@@ -2,9 +2,10 @@ from ast import BitAnd
 from player import Player
 from stats import Stats, Statistic
 from typing import Optional
-from tabulate import tabulate, SEPARATING_LINE
+# from tabulate import tabulate, SEPARATING_LINE
 from event_types import *
 from shot_chart import ShotChart
+import pandas as pd
 
 
 def opponent(team: int) -> int:
@@ -22,7 +23,7 @@ class Team:
         self.last_update = 0
         self.shot_chart = ShotChart()
 
-        self.verbose = True
+        self.verbose = False
         self.off_strategy = "~unknown~"
         self.def_strategy = "~unknown~"
 
@@ -108,33 +109,57 @@ class Team:
         for player in self.players:
             player.stats.new_qtr_sheet()
 
-    def print_stats(self):
+    def print_stats(self): 
+        # sort using 1. PTS and 2. MIN
+        players_sorted = sorted(self.players, key = lambda player: ( player.stats.full.sheet[Statistic.Points],
+                                        player.stats.full.sheet[Statistic.Seconds]), reverse=True)
         headers = [
-            "Name",
-            "MIN",
-            "PTS",
-            "FG",
-            "TP",
-            "FT",
+            "球员",
+            "分钟",
+            "得分",
+            "投篮",
+            "命中率",
+            "内投",
+            "中投",
+            "三分",
+            "罚球",
             "+/-",
-            "OR",
-            "DR",
-            "TR",
-            "AST",
-            "TO",
-            "STL",
-            "BLK",
-            "PF",
+            "攻板",
+            "防板",
+            "总板",
+            "助攻",
+            "失误",
+            "抢断",
+            "盖帽",
+            "犯规",
+            "球权",
+            "队伍球权",
+            "队伍得分",
+            "队伍失分",
+            "传内投",
+            "传中投",
+            "传三分",
+            "防内投",
+            "防中投",
+            "防三分",
+            "干扰下出手",
+            "干扰下命中",
+            "受助攻出手",
+            "受助攻命中",
         ]
 
         table = []
-        for player in self.players:
-            table.append([player.name + " " + str(player.id), *player.stats.full.row()])
-        table.append(SEPARATING_LINE)
+        for player in players_sorted:
+            if player.name != 'Lucky Fan':
+                table.append([player.name + " " + str(player.id), *player.stats.full.row()])
         table.append([self.name, *self.stats.full.row()])
-        print(tabulate(table, headers=headers, tablefmt="rst", stralign="right"))
-        print()
-        print()
+        
+        df = pd.DataFrame(table, columns=headers)
+        df = df.fillna(0)
+        # print(tabulate(table, headers=headers, tablefmt="rst", stralign="right"))
+        # print()
+        return df
+    
 
     def __eq__(self, other):
         def stats_eql(stat: Statistic):
@@ -210,3 +235,25 @@ class Team:
             )
 
         return team_eql and player_eql
+    
+    def update_team_minutes_and_gameplayed(self):
+        # Calculate team played time (sum of player times divided by 5)
+        for player in self.players:
+            self.add_stats(Statistic.Seconds, player.stats.full.sheet[Statistic.Seconds], None)
+            if player.stats.full.sheet[Statistic.Seconds] > 0:
+                player.add_stats(Statistic.GamePlayed, 1)
+        self.stats.full.sheet[Statistic.Seconds] = self.stats.full.sheet[Statistic.Seconds] / 5.0        
+        self.add_stats(Statistic.GamePlayed, 1, None)
+        
+    def AccumulateTeamStat(self, team, game):
+        # Accumulate the stats of team in a game to the season total
+
+        self.stats.full.sheet = [a + b for a, b in zip(self.stats.full.sheet, team.stats.full.sheet)]
+        # Then accumulate stats of players
+        for player in team.players:
+            for player_exist in self.players:
+                if player_exist.id == player.id:
+                    player_exist.AccumulatePlayerStat(player)
+                    break
+            else:
+                self.players.append(player)

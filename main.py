@@ -39,16 +39,16 @@ def parse_report(report: str, at: Team, ht: Team) -> list[BBEvent]:
     pos = 0
     while i < 197:
         id = int(report[i], 16) - 1
-        if __debug__:
-            print("starter: ", id, f"{ht.players[id]}")
+        # if __debug__:
+        #     print("starter: ", id, f"{ht.players[id]}")
         ht.set_starter(id, pos)
         i += 1
         pos += 1
     pos = 0
     while i < 202:
         id = int(report[i], 16) - 1
-        if __debug__:
-            print("starter: ", id, f"{at.players[id]}")
+        # if __debug__:
+        #     print("starter: ", id, f"{at.players[id]}")
         at.set_starter(id, pos)
         i += 1
         pos += 1
@@ -167,8 +167,21 @@ def get_xml_text(matchid) -> str:
     path = f"matches/report_{matchid}.xml"
 
     if exists(path):
-        with open(path, mode="r", encoding='utf-8') as f:
-            return f.read()
+        with open(path, mode="r+", encoding='utf-8') as f:
+            text = f.read()
+            tree = XML.ElementTree(XML.fromstring(text))
+            root = tree.getroot()
+            for child in root:
+                tag = child.tag
+                if tag == "ElapsedSeconds":
+                    if int(child.text) <= 0:
+                        data = requests.get(f"https://buzzerbeater.com/match/viewmatch.aspx?matchid={matchid}")
+                        f.seek(0)
+                        f.write(data.text)
+                        f.truncate()
+                        return data.text
+                    else:
+                        return text
     else:
         data = requests.get(
             f"https://buzzerbeater.com/match/viewmatch.aspx?matchid={matchid}"
@@ -195,7 +208,7 @@ def main():
     events, ht, at = parse_xml(text)
     game = Game(args.matchid, events, ht, at, args, [])
     game.play()
-    game.save(f"{args.matchid}.json")
+    # game.save(f"{args.matchid}.json")
 
 
 if __name__ == "__main__":

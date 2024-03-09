@@ -7,6 +7,9 @@ from event import *
 from event_types import *
 from stats import *
 import json
+from typing import Optional
+import pandas as pd
+
 
 
 class Extension:
@@ -81,6 +84,15 @@ class Game:
         if self.args.print_events:
             print(f"Next possession: {self.teams[self.poss].name}")
 
+    def add_possession_to_stat(self, team: int, pid: Optional[int] = None):
+        if isinstance(pid, int) and team.players[pid - 1].name != 'Lucky Fan':
+            team.players[pid - 1].add_stats(Statistic.PersonalPossessions, 1)
+
+            for player in team.active:
+                player.add_stats(Statistic.TeamPossessions, 1)
+
+            team.add_stats(Statistic.TeamPossessions, 1, None)
+
     def gameclock_normalized(self, gameclock: int):
         # TODO: translate gameclock at first parse
         clock = gameclock
@@ -100,6 +112,7 @@ class Game:
 
         self.baseevents = convert(self.events)
         prev_bev = BaseEvent([], Clocks(-1, -1, -1))
+        prev_shot = BaseEvent([], Clocks(-1, -1, -1))
 
         for idx, bev in enumerate(self.baseevents):
             if self.args.print_events:
@@ -119,10 +132,68 @@ class Game:
                     if not (bev.is_fouled() and bev.has_missed()):
                         att_team.add_stats(Statistic.ThreePointsAtt, 1, bev.attacker)
 
-                    if bev.has_scored():
-                        att_team.add_stats(Statistic.ThreePointsMade, 1, bev.attacker)
+                        if bev.is_assisted():
+                            att_team.add_stats(
+                                Statistic.AssistThreePointsAtt, 1, bev.assistant
+                            )
+                            att_team.add_stats(
+                                Statistic.AssistedShotAtt, 1, bev.attacker
+                            )
+
+                        if bev.is_contested():
+                            def_team.add_stats(
+                                Statistic.ContestThreePointsAtt, 1, bev.defender
+                            )
+                            att_team.add_stats(
+                                Statistic.ContestedShotAtt, 1, bev.attacker
+                            )
+
                 else:
                     pts = 2
+
+                    if bev.is_midrange():
+                        if not (bev.is_fouled() and bev.has_missed()):
+                            att_team.add_stats(
+                                Statistic.MidRangeShotsAtt, 1, bev.attacker
+                            )
+
+                            if bev.is_assisted():
+                                att_team.add_stats(
+                                    Statistic.AssistMidRangeShotAtt, 1, bev.assistant
+                                )
+                                att_team.add_stats(
+                                    Statistic.AssistedShotAtt, 1, bev.attacker
+                                )   
+
+                            if bev.is_contested():
+                                def_team.add_stats(
+                                    Statistic.ContestMidRangeShotAtt, 1, bev.defender
+                                )
+                                att_team.add_stats(
+                                    Statistic.ContestedShotAtt, 1, bev.attacker
+                                )
+
+                    elif bev.is_insideshot():
+                        if not (bev.is_fouled() and bev.has_missed()):
+                            att_team.add_stats(
+                                Statistic.InsideShotsAtt, 1, bev.attacker
+                            )
+
+                            if bev.is_assisted():
+                                att_team.add_stats(
+                                    Statistic.AssistInsideShotAtt, 1, bev.assistant
+                                )
+                                att_team.add_stats(
+                                    Statistic.AssistedShotAtt, 1, bev.attacker
+                                )  
+
+                            if bev.is_contested():
+                                def_team.add_stats(
+                                    Statistic.ContestInsideShotAtt, 1, bev.defender
+                                )
+                                att_team.add_stats(
+                                    Statistic.ContestedShotAtt, 1, bev.attacker
+                                )
 
                 if not (bev.is_fouled() and bev.has_missed()):
                     att_team.add_stats(Statistic.FieldGoalsAtt, 1, bev.attacker)
@@ -130,27 +201,102 @@ class Game:
                 self.patch_clock(bev, prev_bev)
 
                 if bev.has_scored():
+                    if bev.is_assisted():
+                        att_team.add_stats(Statistic.Assists, 1, bev.assistant)
+
+                    if bev.is_3pt():
+                        pts = 3
+                        att_team.add_stats(Statistic.ThreePointsMade, 1, bev.attacker)
+
+                        if bev.is_assisted():
+                            att_team.add_stats(
+                                Statistic.AssistThreePointsMade, 1, bev.assistant
+                            )
+                            att_team.add_stats(
+                                Statistic.AssistedShotMade, 1, bev.attacker
+                            )
+
+                        if bev.is_contested():
+                            def_team.add_stats(
+                                Statistic.ContestThreePointsMade, 1, bev.defender
+                            )
+                            att_team.add_stats(
+                                Statistic.ContestedShotMade, 1, bev.attacker
+                            )
+
+                    else:
+                        pts = 2
+
+                        if bev.is_midrange():
+                            att_team.add_stats(
+                                Statistic.MidRangeShotsMade, 1, bev.attacker
+                            )
+
+                            if bev.is_assisted():
+                                att_team.add_stats(
+                                    Statistic.AssistMidrangeShotMade, 1, bev.assistant
+                                )
+                                att_team.add_stats(
+                                    Statistic.AssistedShotMade, 1, bev.attacker
+                                )
+
+                            if bev.is_contested():
+                                def_team.add_stats(
+                                    Statistic.ContestMidRangeShotMade, 1, bev.defender
+                                )
+                                att_team.add_stats(
+                                    Statistic.ContestedShotMade, 1, bev.attacker
+                                )
+
+                        elif bev.is_insideshot():
+                            att_team.add_stats(
+                                Statistic.InsideShotsMade, 1, bev.attacker
+                            )
+
+                            if bev.is_assisted():
+                                att_team.add_stats(
+                                    Statistic.AssistInsideShotMade, 1, bev.assistant
+                                )
+                                att_team.add_stats(
+                                    Statistic.AssistedShotMade, 1, bev.attacker
+                                )
+
+                            if bev.is_contested():
+                                def_team.add_stats(
+                                    Statistic.ContestInsideShotMade, 1, bev.defender
+                                )
+                                att_team.add_stats(
+                                    Statistic.ContestedShotMade, 1, bev.attacker
+                                )
+
                     att_team.add_stats(Statistic.FieldGoalsMade, 1, bev.attacker)
                     att_team.add_stats(Statistic.Points, pts, bev.attacker)
+                    att_team.add_stats(Statistic.PlusMinus, pts, None)
+                    att_team.add_stats(Statistic.TeamPtsGet, pts, None)
+                    def_team.add_stats(Statistic.PlusMinus, -pts, None)
+                    def_team.add_stats(Statistic.TeamPtsLost, pts, None)
                     for player in att_team.active:
                         player.add_stats(Statistic.PlusMinus, pts)
+                        player.add_stats(Statistic.TeamPtsGet, pts)
                     for player in def_team.active:
                         player.add_stats(Statistic.PlusMinus, -pts)
+                        player.add_stats(Statistic.TeamPtsLost, pts)
                     att_team.shot_chart.add_made(bev.shot_pos.x, bev.shot_pos.y)
                     if not bev.is_fouled():
                         self.update_clocks(24, gameclock)
                         self.update_possession(bev.def_team)
+                        self.add_possession_to_stat(att_team, bev.attacker)
+
                 else:
                     att_team.shot_chart.add_miss(bev.shot_pos.x, bev.shot_pos.y)
 
                 if bev.is_blocked():
                     def_team.add_stats(Statistic.Blocks, 1, bev.defender)
 
-                if bev.is_assisted():
-                    att_team.add_stats(Statistic.Assists, 1, bev.assistant)
-
                 for ext in self.extensions:
                     ext.on_shot_event(self, bev)
+                    
+                prev_shot = bev
 
             elif isinstance(bev, FreeThrowEvent):
                 att_team = self.teams[bev.att_team]
@@ -160,11 +306,17 @@ class Game:
                 if bev.has_scored():
                     att_team.add_stats(Statistic.FreeThrowsMade, 1, bev.attacker)
                     att_team.add_stats(Statistic.Points, 1, bev.attacker)
+                    att_team.add_stats(Statistic.PlusMinus, 1, None)
+                    att_team.add_stats(Statistic.TeamPtsGet, 1, None)
+                    def_team.add_stats(Statistic.PlusMinus, -1, None)
+                    def_team.add_stats(Statistic.TeamPtsLost, 1, None)
 
                     for player in att_team.active:
                         player.add_stats(Statistic.PlusMinus, 1)
+                        player.add_stats(Statistic.TeamPtsGet, 1)
                     for player in def_team.active:
                         player.add_stats(Statistic.PlusMinus, -1)
+                        player.add_stats(Statistic.TeamPtsLost, 1)
 
                 for ext in self.extensions:
                     ext.on_free_throw_event(self, bev)
@@ -180,9 +332,21 @@ class Game:
                 if bev.is_rebound():
                     if bev.is_off_rebound():
                         att_team.add_stats(Statistic.OffRebounds, 1, bev.attacker)
+                        def_team.add_stats(Statistic.OppOffRebounds, 1)
+                        for player in att_team.active:
+                            player.add_stats(Statistic.TeamOffRebounds, 1)
+                        for player in def_team.active:
+                            player.add_stats(Statistic.OppOffRebounds, 1)
                     else:
                         def_team.add_stats(Statistic.DefRebounds, 1, bev.attacker)
+                        att_team.add_stats(Statistic.OppDefRebounds, 1)
+                        for player in att_team.active:
+                            player.add_stats(Statistic.OppDefRebounds, 1)
+                        for player in def_team.active:
+                            player.add_stats(Statistic.TeamDefRebounds, 1)
                         self.update_possession(bev.def_team)
+                        self.add_possession_to_stat(att_team, prev_bev.attacker)
+
                 elif bev.is_jumpball():
                     bev.shotclock = 0
                     self.update_clocks(24, gameclock)
@@ -196,7 +360,9 @@ class Game:
                             bev.def_team,
                             bev.att_team,
                         ]
-
+                elif bev.is_rebound_out_of_bounds_def():
+                    self.add_possession_to_stat(att_team, prev_bev.attacker)
+                        
                 for ext in self.extensions:
                     ext.on_rebound_event(self, bev)
 
@@ -215,6 +381,8 @@ class Game:
                     att_team.add_stats(Statistic.Turnovers, 1, bev.attacker)
                     self.update_clocks(24, gameclock)
                     self.update_possession(bev.def_team)
+                    self.add_possession_to_stat(att_team, bev.attacker)
+
                 elif bev.interrupt_type in (
                     InterruptType.PASS_INTERCEPTED,
                     InterruptType.BALL_STOLEN,
@@ -223,10 +391,13 @@ class Game:
                     def_team.add_stats(Statistic.Steals, 1, bev.defender)
                     self.update_clocks(24, gameclock)
                     self.update_possession(bev.def_team)
+                    self.add_possession_to_stat(att_team, bev.attacker)
+
                 elif bev.interrupt_type in (InterruptType.SHOTCLOCK_VIOLATION,):
                     att_team.add_stats(Statistic.Turnovers, 1)
                     self.update_clocks(24, gameclock)
                     self.update_possession(bev.def_team)
+                    self.add_possession_to_stat(att_team, bev.attacker)
 
                 for ext in self.extensions:
                     ext.on_interrupt_event(self, bev)
@@ -242,6 +413,8 @@ class Game:
                     att_team.add_stats(Statistic.Fouls, 1, bev.attacker)
                     self.update_clocks(24, gameclock)
                     self.update_possession(bev.def_team)
+                    self.add_possession_to_stat(att_team, bev.attacker)
+
                 elif bev.foul_type == FoulType.PERSONAL_FOUL:
                     if def_team.stats.qtr[self.quarter - 1].sheet[Statistic.Fouls] < 4:
                         if bev.shotclock < 14:
@@ -296,9 +469,16 @@ class Game:
 
                     if self.quarter <= 4:
                         self.update_possession(self.quater_poss[self.quarter - 1])
+
+                        if isinstance(prev_bev, ShotEvent):
+                            self.add_possession_to_stat(att_team, prev_bev.attacker)
+
                 elif bev.break_type == BreakType.END_OF_HALF:
-                    pass
+                    if isinstance(prev_bev, ShotEvent):
+                        self.add_possession_to_stat(att_team, prev_bev.attacker)
                 elif bev.break_type == BreakType.END_OF_GAME:
+                    if isinstance(prev_bev, ShotEvent):
+                        self.add_possession_to_stat(att_team, prev_bev.attacker)
                     for team in self.teams:
                         team.update_minutes(gameclock)
                 elif bev.break_type == BreakType.TIMEOUT_30:
@@ -309,18 +489,59 @@ class Game:
                 for ext in self.extensions:
                     ext.on_break_event(self, bev)
 
+            # Update possesion when last free throw (not an and-one) is made
+            if (not isinstance(bev, FreeThrowEvent) 
+                and isinstance(prev_bev, FreeThrowEvent) 
+                and not isinstance(bev, SubEvent)
+                and prev_shot.has_missed()):
+                if prev_bev.has_scored():
+                    self.add_possession_to_stat(def_team, prev_bev.attacker)
+
+            # if (
+            #     idx + 1 < len(self.baseevents)
+            #     and (
+            #         bev.gameclock != self.baseevents[idx + 1].gameclock
+            #         or isinstance(bev, ReboundEvent)
+            #     )
+            # ) or bev.gameclock == -1:
+            #     prev_bev = bev
+                    
             if (
                 idx + 1 < len(self.baseevents)
-                and (
-                    bev.gameclock != self.baseevents[idx + 1].gameclock
-                    or isinstance(bev, ReboundEvent)
-                )
             ) or bev.gameclock == -1:
                 prev_bev = bev
 
-        for team in reversed(self.teams):
-            if self.args.print_stats:
-                team.print_stats()
+        # Calculate minutes and seconds of player and team; and add gameplayed tag
+        for team in self.teams:
+            for player in team.players:
+                player.stats.full.minutes()
+            team.update_team_minutes_and_gameplayed()
+
+        if self.args.print_stats: 
+            file_name = f"results/{self.matchid}.xlsx"
+            with pd.ExcelWriter(file_name) as writer:
+                workbook = writer.book
+                for team in reversed(self.teams):
+                    df = team.print_stats()
+                    df.to_excel(
+                        writer,
+                        sheet_name=f"{team.name}",
+                        index=False,
+                        freeze_panes=(1, 1),
+                    )
+                    worksheet = writer.sheets[f"{team.name}"]
+                    for column in df:
+                        column_length = max(df[column].astype(str).map(len).max(), len(column)) + 2
+                        col_idx = df.columns.get_loc(column)
+                        worksheet.set_column(col_idx, col_idx, column_length)
+
+                    num_format_3 = workbook.add_format({'num_format': '0.000'})
+                    text_format = workbook.add_format({'text_wrap': True, 'bold': True})
+                    worksheet.set_row(0, 30, text_format)
+                    for col_idx in [4, 29, 31]:
+                        worksheet.set_column(col_idx, col_idx, None, num_format_3)
+                        
+
             if self.args.save_charts:
                 team.shot_chart.save(f"matches/{self.matchid}-{team.short}.png")
 
@@ -330,7 +551,9 @@ class Game:
             bbteams = bbapi.boxscore(matchid=self.matchid)
             assert bbteams[0] == self.teams[1]
             assert bbteams[1] == self.teams[0]
-
+            
+        return self.teams
+    
     def save(self, filename):
         teams = []
         for tid, team in enumerate(self.teams):
@@ -368,7 +591,7 @@ class Game:
             "events": events,
         }
 
-        with open(filename, "w", encoding='utf-8') as f:
+        with open(filename, "w", encoding="utf-8") as f:
             json.dump(game, f, indent=4, ensure_ascii=False)
 
 

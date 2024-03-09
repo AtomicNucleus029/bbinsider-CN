@@ -26,3 +26,6 @@ class Player:
             + self.stats.full.sheet[Statistic.SecsPF]
             + self.stats.full.sheet[Statistic.SecsC]
         )
+    
+    def AccumulatePlayerStat(self, player):
+        self.stats.full.sheet = [a + b for a, b in zip(self.stats.full.sheet, player.stats.full.sheet)]

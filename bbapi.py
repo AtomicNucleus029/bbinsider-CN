@@ -7,7 +7,6 @@ from player import Player
 from stats import *
 from os.path import exists
 
-
 class Network:
     def __init__(self):
         self.cookies = None
@@ -258,7 +257,7 @@ class BBApi:
         match_ids = [
             match.attrib["id"]
             for match in matches
-            if match.attrib["type"].startswith("league")
+            if match.attrib["type"].startswith("league.rs")
         ]
 
         return match_ids
@@ -271,31 +270,33 @@ def prefetch_data(
 
     unique_ids = set[str]()
 
-    leagueids = [
-        1,  # USA
-        86,  # Argentina,
-        107,  # Brasil
-        128,  # Canada
-        149,  # China
-        170,  # Turkiye
-        191,  # Espana
-        212,  # Deutschland
-        254,  # Italia
-        275,  # France
-        296,  # Hellas
-        893,  # Belgium
-        978,  # England
-        999,  # Isreal
-        1020,  # Nederland
-        1062,  # Portugal
-        1083,  # Rossiya
-        1104,  # Lietuva
-        1277,  # Srbija
-        2083,  # Polska
-    ]
+    # leagueids = [
+    #     1,  # USA
+    #     86,  # Argentina,
+    #     107,  # Brasil
+    #     128,  # Canada
+    #     149,  # China
+    #     170,  # Turkiye
+    #     191,  # Espana
+    #     212,  # Deutschland
+    #     254,  # Italia
+    #     275,  # France
+    #     296,  # Hellas
+    #     893,  # Belgium
+    #     978,  # England
+    #     999,  # Isreal
+    #     1020,  # Nederland
+    #     1062,  # Portugal
+    #     1083,  # Rossiya
+    #     1104,  # Lietuva
+    #     1277,  # Srbija
+    #     2083,  # Polska
+    # ]
+    
+    leagueids = [163]
 
     # [ 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 29, 58]
-    season = 59
+    season = 63
 
     for leagueid in leagueids:
         team_ids = api.standings(leagueid, season)

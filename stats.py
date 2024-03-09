@@ -1,50 +1,66 @@
 from enum import IntEnum
 
-
 class Statistic(IntEnum):
     Points = 0
     FieldGoalsAtt = 1
     FieldGoalsMade = 2
-    ThreePointsAtt = 3
-    ThreePointsMade = 4
-    FreeThrowsAtt = 5
-    FreeThrowsMade = 6
-    OffRebounds = 7
-    DefRebounds = 8
-    Assists = 9
-    Turnovers = 10
-    Steals = 11
-    Blocks = 12
-    Fouls = 13
-    Seconds = 14
-    PlusMinus = 15
-    Dunks = 16
-    PointsInThePaint = 17
-    SecsPG = 18
-    SecsSG = 19
-    SecsSF = 20
-    SecsPF = 21
-    SecsC = 22
-    PlayerStats = 23
-    FastBreakPoints = 23
-    SecondChancePoints = 24
-    BenchPoints = 25
-    PointsOffTurnovers = 26
-    BiggestLead = 27
-    TimeOfPossession = 28
-    Possessions = 29
-    Timeouts30 = 30
-    Timeouts60 = 31
-    TeamStats = 32
-
+    InsideShotsAtt = 3
+    InsideShotsMade = 4
+    MidRangeShotsAtt = 5
+    MidRangeShotsMade = 6
+    ThreePointsAtt = 7
+    ThreePointsMade = 8
+    FreeThrowsAtt = 9
+    FreeThrowsMade = 10
+    OffRebounds = 11
+    DefRebounds = 12
+    Assists = 13
+    Turnovers = 14
+    Steals = 15
+    Blocks = 16
+    Fouls = 17
+    Seconds = 18
+    PlusMinus = 19
+    SecsPG = 20
+    SecsSG = 21
+    SecsSF = 22
+    SecsPF = 23
+    SecsC = 24
+    ContestInsideShotAtt = 25
+    ContestInsideShotMade = 26
+    ContestMidRangeShotAtt = 27
+    ContestMidRangeShotMade = 28
+    ContestThreePointsAtt = 29
+    ContestThreePointsMade = 30
+    Timeouts30 = 31
+    Timeouts60 = 32
+    PersonalPossessions = 33
+    TeamPossessions = 34
+    TeamPtsGet = 35
+    TeamPtsLost = 36
+    AssistInsideShotAtt = 37
+    AssistInsideShotMade = 38
+    AssistMidRangeShotAtt = 39
+    AssistMidrangeShotMade = 40
+    AssistThreePointsAtt = 41
+    AssistThreePointsMade = 42
+    ContestedShotAtt = 43
+    ContestedShotMade = 44
+    AssistedShotAtt = 45
+    AssistedShotMade = 46
+    TeamOffRebounds = 47
+    TeamDefRebounds = 48
+    OppOffRebounds = 49
+    OppDefRebounds = 50
+    GamePlayed = 51
 
 class StatSheet:
     def __init__(self) -> None:
-        self.sheet = [0] * Statistic.TeamStats
+        self.sheet = [0] * ( Statistic.GamePlayed + 1 )
 
     def __repr__(self) -> str:
         return f"""Stats
-    MIN: {self.minutes()}
+    MIN: {round(self.sheet[Statistic.Seconds] / 60)}
     PTS: {self.sheet[Statistic.Points]}
     FG:  {self.sheet[Statistic.FieldGoalsMade]} / {self.sheet[Statistic.FieldGoalsAtt]}
     TP:  {self.sheet[Statistic.ThreePointsMade]} / {self.sheet[Statistic.ThreePointsAtt]}
@@ -62,20 +78,38 @@ class StatSheet:
 
     def row(self):
         return [
-            f"{self.minutes()}",
-            f"{self.sheet[Statistic.Points]}",
+            round(self.sheet[Statistic.Seconds] / 60),
+            self.sheet[Statistic.Points],
             f"{self.sheet[Statistic.FieldGoalsMade]}/{self.sheet[Statistic.FieldGoalsAtt]}",
+            (self.sheet[Statistic.FieldGoalsAtt] and round(self.sheet[Statistic.FieldGoalsMade]/self.sheet[Statistic.FieldGoalsAtt],3)),
+            f"{self.sheet[Statistic.InsideShotsMade]}/{self.sheet[Statistic.InsideShotsAtt]}",
+            f"{self.sheet[Statistic.MidRangeShotsMade]}/{self.sheet[Statistic.MidRangeShotsAtt]}",
             f"{self.sheet[Statistic.ThreePointsMade]}/{self.sheet[Statistic.ThreePointsAtt]}",
             f"{self.sheet[Statistic.FreeThrowsMade]}/{self.sheet[Statistic.FreeThrowsAtt]}",
-            f"{self.sheet[Statistic.PlusMinus]}",
-            f"{self.sheet[Statistic.OffRebounds]}",
-            f"{self.sheet[Statistic.DefRebounds]}",
-            f"{self.sheet[Statistic.OffRebounds] + self.sheet[Statistic.DefRebounds]}",
-            f"{self.sheet[Statistic.Assists]}",
-            f"{self.sheet[Statistic.Turnovers]}",
-            f"{self.sheet[Statistic.Steals]}",
-            f"{self.sheet[Statistic.Blocks]}",
-            f"{self.sheet[Statistic.Fouls]}",
+            self.sheet[Statistic.PlusMinus],
+            self.sheet[Statistic.OffRebounds],
+            self.sheet[Statistic.DefRebounds],
+            self.sheet[Statistic.OffRebounds] + self.sheet[Statistic.DefRebounds],
+            self.sheet[Statistic.Assists],
+            self.sheet[Statistic.Turnovers],
+            self.sheet[Statistic.Steals],
+            self.sheet[Statistic.Blocks],
+            self.sheet[Statistic.Fouls],
+            self.sheet[Statistic.PersonalPossessions],
+            self.sheet[Statistic.TeamPossessions],
+            self.sheet[Statistic.TeamPtsGet],
+            self.sheet[Statistic.TeamPtsLost],
+            f"{self.sheet[Statistic.AssistInsideShotMade]}/{self.sheet[Statistic.AssistInsideShotAtt]}",
+            f"{self.sheet[Statistic.AssistMidrangeShotMade]}/{self.sheet[Statistic.AssistMidRangeShotAtt]}",
+            f"{self.sheet[Statistic.AssistThreePointsMade]}/{self.sheet[Statistic.AssistThreePointsAtt]}",
+            f"{self.sheet[Statistic.ContestInsideShotMade]}/{self.sheet[Statistic.ContestInsideShotAtt]}",
+            f"{self.sheet[Statistic.ContestMidRangeShotMade]}/{self.sheet[Statistic.ContestMidRangeShotAtt]}",
+            f"{self.sheet[Statistic.ContestThreePointsMade]}/{self.sheet[Statistic.ContestThreePointsAtt]}",
+            f"{self.sheet[Statistic.ContestedShotMade]}/{self.sheet[Statistic.ContestedShotAtt]}",
+            (self.sheet[Statistic.ContestedShotAtt] and round(self.sheet[Statistic.ContestedShotMade]/self.sheet[Statistic.ContestedShotAtt],3)),
+            f"{self.sheet[Statistic.AssistedShotMade]}/{self.sheet[Statistic.AssistedShotAtt]}",
+            (self.sheet[Statistic.AssistedShotAtt] and round(self.sheet[Statistic.AssistedShotMade]/self.sheet[Statistic.AssistedShotAtt],3)),
+
         ]
 
     def player_stats(self):
@@ -85,7 +119,7 @@ class StatSheet:
             "secs_sf": self.sheet[Statistic.SecsSF],
             "secs_pf": self.sheet[Statistic.SecsPF],
             "secs_c": self.sheet[Statistic.SecsC],
-            "mins": self.minutes(),
+            "mins": round(self.sheet[Statistic.Seconds] / 60),
             "pts": self.sheet[Statistic.Points],
             "fgm": self.sheet[Statistic.FieldGoalsMade],
             "fga": self.sheet[Statistic.FieldGoalsAtt],
@@ -138,14 +172,11 @@ class StatSheet:
         }
 
     def minutes(self):
-        return (
-            round(self.sheet[Statistic.SecsPG] / 60)
-            + round(self.sheet[Statistic.SecsSG] / 60)
-            + round(self.sheet[Statistic.SecsSF] / 60)
-            + round(self.sheet[Statistic.SecsPF] / 60)
-            + round(self.sheet[Statistic.SecsC] / 60)
-        )
-
+        self.sheet[Statistic.Seconds] = (self.sheet[Statistic.SecsPG]
+            + self.sheet[Statistic.SecsSG]
+            + self.sheet[Statistic.SecsSF]
+            + self.sheet[Statistic.SecsPF]
+            + self.sheet[Statistic.SecsC])
 
 class Stats:
     def __init__(self) -> None:

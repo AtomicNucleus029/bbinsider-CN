@@ -85,12 +85,39 @@ class ShotEvent(BaseEvent):
             ShotType.THREE_POINTER_TOPKEY,
             ShotType.THREE_POINTER_HALFCOURT,
         )
-
+        
+    def is_midrange(self):
+        return self.shot_type in (
+            ShotType.TWO_POINTER_DEFAULT,
+            ShotType.TWO_POINTER_ELBOW,
+            ShotType.TWO_POINTER_WING,
+            ShotType.TWO_POINTER_BASELINE,
+            ShotType.TWO_POINTER_TOPKEY,
+            ShotType.FADE_AWAY,
+            ShotType.OFF_DRIBBLE_JUMP_SHOT,
+        )
+        
+    def is_insideshot(self):
+        return self.shot_type in (
+            ShotType.DUNK1,
+            ShotType.LAYUP,
+            ShotType.POST_UP_MOVE,
+            ShotType.HOOK,
+            ShotType.PUTBACK_DUNK,
+            ShotType.TIPIN,
+            ShotType.REBOUND_SHOT,
+            ShotType.DUNK2,
+            ShotType.DRIVING_LAYUP,
+        )
+        
     def is_blocked(self):
         return self.shot_result == ShotResult.BLOCKED
+    
+    def is_contested(self):
+        return self.defender is not None 
 
     def is_assisted(self):
-        return self.assistant != 0
+        return self.assistant is not None
 
     def is_fouled(self):
         return self.shot_result in (
@@ -217,7 +244,8 @@ class ReboundEvent(BaseEvent):
     def is_rebound(self):
         return self.rebound_type not in (
             ReboundType.JUMP_BALL,
-            ReboundType.REBOUND_OUT_OF_BOUNDS,
+            ReboundType.REBOUND_OUT_OF_BOUNDS_DEF,
+            ReboundType.REBOUND_OUT_OF_BOUNDS_OFF
         )
 
     def is_off_rebound(self):
@@ -225,6 +253,9 @@ class ReboundEvent(BaseEvent):
 
     def is_jumpball(self):
         return self.rebound_type == ReboundType.JUMP_BALL
+    
+    def is_rebound_out_of_bounds_def(self):
+        return self.rebound_type == ReboundType.REBOUND_OUT_OF_BOUNDS_DEF
 
 
 class FreeThrowEvent(BaseEvent):
@@ -773,20 +804,30 @@ def convert(events: list[BBEvent]) -> list[BaseEvent]:
             )
         elif etype == 934:
             if event.result == 7:
-                pass  # FIXME offensive?
-            elif event.result == 8:
-                pass  # FIXME defensive?
-            base_events.append(
+                base_events.append(
                 ReboundEvent(
                     comments,
                     clocks,
-                    ReboundType.REBOUND_OUT_OF_BOUNDS,
+                    ReboundType.REBOUND_OUT_OF_BOUNDS_DEF,
                     event.player1,
                     event.player2,
                     event.team,
                     opponent(event.team),
                 )
-            )
+            )  # FIXME ball goes to def
+            elif event.result == 8:
+                base_events.append(
+                ReboundEvent(
+                    comments,
+                    clocks,
+                    ReboundType.REBOUND_OUT_OF_BOUNDS_OFF,
+                    event.player1,
+                    event.player2,
+                    event.team,
+                    opponent(event.team),
+                )
+            )  # FIXME ball goes to off
+
         elif etype == 951:
             team = 1 if event.result > 4 else 0
             if event.result == 0 or event.result == 5:

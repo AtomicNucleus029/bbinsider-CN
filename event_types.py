@@ -56,7 +56,8 @@ class ReboundType(IntEnum):
     DEF_REBOUND = 9318
     # How is this one different?
     DEFAULT_REBOUND = 9319
-    REBOUND_OUT_OF_BOUNDS = 934
+    REBOUND_OUT_OF_BOUNDS_DEF = 9347
+    REBOUND_OUT_OF_BOUNDS_OFF = 9348
     JUMP_BALL = 933
 
 
