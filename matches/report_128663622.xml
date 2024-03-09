@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663622</MatchID>
+		<HomeTeam>
+			<ID>25268</ID>
+			<Name>MarsMJ</Name>
+			<ShortName>Mar</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188912</ID>
+			<Name>九州</Name>
+			<ShortName>jz</ShortName>
+		</AwayTeam>
+		<ArenaName>MarsMJ</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:12 PM</Time>
+    	<StartTime>5/21/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-6518267</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

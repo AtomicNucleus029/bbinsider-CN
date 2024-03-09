@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663611</MatchID>
+		<HomeTeam>
+			<ID>186457</ID>
+			<Name>九州流浪者</Name>
+			<ShortName>???</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>25418</ID>
+			<Name>鬼鬼鬼</Name>
+			<ShortName>???</ShortName>
+		</AwayTeam>
+		<ArenaName>蜂窝中心</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:01 PM</Time>
+    	<StartTime>5/14/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-5913598</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663493</MatchID>
+		<HomeTeam>
+			<ID>186024</ID>
+			<Name>Hengdian Tai Chi</Name>
+			<ShortName>Hen</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188912</ID>
+			<Name>九州</Name>
+			<ShortName>jz</ShortName>
+		</AwayTeam>
+		<ArenaName>Hengdian Golden Palace</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:19:50 PM</Time>
+    	<StartTime>3/23/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-1420809</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors>239,214,177</LinesColors>
+	    <HomeShotColors>248,3,3</HomeShotColors>
+	    <AwayShotColors>10,54,253</AwayShotColors>
+	</BBData>
+	

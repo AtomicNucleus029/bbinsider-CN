@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663629</MatchID>
+		<HomeTeam>
+			<ID>25268</ID>
+			<Name>MarsMJ</Name>
+			<ShortName>Mar</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186024</ID>
+			<Name>Hengdian Tai Chi</Name>
+			<ShortName>Hen</ShortName>
+		</AwayTeam>
+		<ArenaName>MarsMJ</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:12 PM</Time>
+    	<StartTime>5/25/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-6863867</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

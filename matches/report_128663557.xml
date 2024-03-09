@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663557</MatchID>
+		<HomeTeam>
+			<ID>25418</ID>
+			<Name>鬼鬼鬼</Name>
+			<ShortName>???</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186024</ID>
+			<Name>Hengdian Tai Chi</Name>
+			<ShortName>Hen</ShortName>
+		</AwayTeam>
+		<ArenaName>鬼鬼</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:34 PM</Time>
+    	<StartTime>4/20/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-3839965</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

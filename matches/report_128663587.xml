@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663587</MatchID>
+		<HomeTeam>
+			<ID>186570</ID>
+			<Name>Cha1</Name>
+			<ShortName>Cha</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186457</ID>
+			<Name>九州流浪者</Name>
+			<ShortName>???</ShortName>
+		</AwayTeam>
+		<ArenaName>Cha1</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:14 PM</Time>
+    	<StartTime>5/4/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-5049465</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

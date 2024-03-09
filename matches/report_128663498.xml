@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663498</MatchID>
+		<HomeTeam>
+			<ID>25409</ID>
+			<Name>RRL</Name>
+			<ShortName>RRL</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188917</ID>
+			<Name>Atomic Nucleus</Name>
+			<ShortName>Ato</ShortName>
+		</AwayTeam>
+		<ArenaName>Thompson-Boling Arena</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:21:01 PM</Time>
+    	<StartTime>3/23/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-1420738</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

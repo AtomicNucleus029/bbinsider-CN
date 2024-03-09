@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663624</MatchID>
+		<HomeTeam>
+			<ID>186109</ID>
+			<Name>西江月</Name>
+			<ShortName>xjy</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>69588</ID>
+			<Name>TJJTDS</Name>
+			<ShortName>wx</ShortName>
+		</AwayTeam>
+		<ArenaName>渺小生物角斗场</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:19:51 PM</Time>
+    	<StartTime>5/21/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-6518408</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

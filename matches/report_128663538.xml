@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663538</MatchID>
+		<HomeTeam>
+			<ID>186109</ID>
+			<Name>西江月</Name>
+			<ShortName>xjy</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188883</ID>
+			<Name>夏洛特黄蜂</Name>
+			<ShortName>CHA</ShortName>
+		</AwayTeam>
+		<ArenaName>渺小生物角斗场</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:26 PM</Time>
+    	<StartTime>4/9/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2889573</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

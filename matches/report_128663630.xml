@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663630</MatchID>
+		<HomeTeam>
+			<ID>186208</ID>
+			<Name>Real vicky</Name>
+			<ShortName>Rea</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188912</ID>
+			<Name>九州</Name>
+			<ShortName>jz</ShortName>
+		</AwayTeam>
+		<ArenaName>Dubuc</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:19:54 PM</Time>
+    	<StartTime>5/25/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-6864005</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

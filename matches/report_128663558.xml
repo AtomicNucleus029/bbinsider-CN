@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663558</MatchID>
+		<HomeTeam>
+			<ID>186570</ID>
+			<Name>Cha1</Name>
+			<ShortName>Cha</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>25268</ID>
+			<Name>MarsMJ</Name>
+			<ShortName>Mar</ShortName>
+		</AwayTeam>
+		<ArenaName>Cha1</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:42 PM</Time>
+    	<StartTime>4/20/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-3839837</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

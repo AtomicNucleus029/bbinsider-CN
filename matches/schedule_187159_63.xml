@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='187159' season='63' retrieved='2024-02-25T20:39:00Z'>
+        <match id='127306677' start='2023-11-30T15:30:00Z' type='friendly'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='39783'>
+                <teamName>Kalniečiai BC</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310650' start='2023-12-01T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='186197'>
+                <teamName>Lujiazui Traders</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127344999' start='2023-12-02T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='69320'>
+                <teamName>小三轮</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345006' start='2023-12-05T11:00:00Z' type='league.rs'>
+            <awayTeam id='25409'>
+                <teamName>RRL</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128312022' start='2023-12-06T15:30:00Z' type='bbm'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='50413'>
+                <teamName>BC Kitse 35</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340717' start='2023-12-07T11:00:00Z' type='cup'>
+            <awayTeam id='188170'>
+                <teamName>钢铁爱国者</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310656' start='2023-12-08T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='189916'>
+                <teamName>詹眉禁卫军</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345017' start='2023-12-09T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='25418'>
+                <teamName>鬼鬼鬼</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345024' start='2023-12-12T11:00:00Z' type='league.rs'>
+            <awayTeam id='186344'>
+                <teamName>天津先行者</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128322879' start='2023-12-13T11:00:00Z' type='bbm'>
+            <awayTeam id='164359'>
+                <teamName>Sumici</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128328659' start='2023-12-14T11:00:00Z' type='cup'>
+            <awayTeam id='69236'>
+                <teamName>mans team</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310661' start='2023-12-15T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='69262'>
+                <teamName>强煎的蛋</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345033' start='2023-12-16T11:00:00Z' type='league.rs'>
+            <awayTeam id='186022'>
+                <teamName>成都红狼</teamName>
+<score>18</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345041' start='2023-12-19T11:00:00Z' type='league.rs.tv'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='188917'>
+                <teamName>Atomic Nucleus</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128350237' start='2023-12-20T17:35:00Z' type='bbm'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163614'>
+                <teamName>BKK Czarni Bydgoszcz</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128355727' start='2023-12-21T11:00:00Z' type='cup'>
+            <awayTeam id='186819'>
+                <teamName>hans teams</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310665' start='2023-12-22T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='69237'>
+                <teamName>TEAM-3D</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345048' start='2023-12-23T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='188883'>
+                <teamName>夏洛特黄蜂</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345055' start='2023-12-26T11:00:00Z' type='league.rs'>
+            <awayTeam id='69588'>
+                <teamName>TJJTDS</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128369200' start='2023-12-27T17:40:00Z' type='bbm'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='276549'>
+                <teamName>Babszinyúl</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128374217' start='2023-12-28T11:00:00Z' type='cup'>
+            <awayTeam id='186339'>
+                <teamName>掘金</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310669' start='2023-12-29T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='189377'>
+                <teamName>lamar篮球队</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345062' start='2023-12-30T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='186208'>
+                <teamName>Real vicky</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345069' start='2024-01-02T11:00:00Z' type='league.rs'>
+            <awayTeam id='25272'>
+                <teamName>孔雀东南飞</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128384630' start='2024-01-03T15:30:00Z' type='bbm'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='95405'>
+                <teamName>BC Optimistai</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128389680' start='2024-01-04T11:00:00Z' type='cup'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='189213'>
+                <teamName>圣芙蕾雅学园</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310673' start='2024-01-05T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='25302'>
+                <teamName>CatBox</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345076' start='2024-01-06T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='189004'>
+                <teamName>领土</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345083' start='2024-01-09T11:00:00Z' type='league.rs'>
+            <awayTeam id='186109'>
+                <teamName>西江月</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128399874' start='2024-01-10T16:30:00Z' type='bbm'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='145939'>
+                <teamName>Η ομάδα της καρδιάς μας</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128404897' start='2024-01-11T11:00:00Z' type='cup'>
+            <awayTeam id='186159'>
+                <teamName>广东东莞大益普洱</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310677' start='2024-01-12T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='277113'>
+                <teamName>☀️我们的队伍向太阳☀️ II</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345090' start='2024-01-13T11:00:00Z' type='league.rs.tv'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='188231'>
+                <teamName>AKAxuan</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419905' start='2024-01-16T11:00:00Z' type='cup'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='188835'>
+                <teamName>明教</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000163' start='2024-01-17T11:00:00Z' type='unknown'>
+            <awayTeam id='163'>
+                <teamName>Big 8</teamName>
+<score>173</score>
+            </awayTeam>
+            <homeTeam id='163'>
+                <teamName>Great 8</teamName>
+<score>175</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128414665' start='2024-01-17T15:30:00Z' type='bbm'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='177745'>
+                <teamName>BC TAPKĖ</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128426261' start='2024-01-18T11:00:00Z' type='friendly'>
+            <awayTeam id='186442'>
+                <teamName>超级飞侠之多多&amp;amp;小爱</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310683' start='2024-01-19T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='186373'>
+                <teamName>鹿泉计院</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345105' start='2024-01-20T11:00:00Z' type='league.rs'>
+            <awayTeam id='186161'>
+                <teamName>PSG.LGD</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345112' start='2024-01-23T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='25268'>
+                <teamName>MarsMJ</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128432996' start='2024-01-25T15:00:00Z' type='friendly'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='39390'>
+                <teamName>gadkaya</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310689' start='2024-01-26T10:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='186245'>
+                <teamName>垂死病中惊坐起，笑问客从何处来</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345119' start='2024-01-27T11:00:00Z' type='league.rs'>
+            <awayTeam id='69320'>
+                <teamName>小三轮</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345126' start='2024-01-30T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='25409'>
+                <teamName>RRL</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128441113' start='2024-02-02T00:00:00Z' type='friendly'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='276228'>
+                <teamName>Burton Blizzard</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345137' start='2024-02-03T11:00:00Z' type='league.rs'>
+            <awayTeam id='25418'>
+                <teamName>鬼鬼鬼</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345144' start='2024-02-06T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='186344'>
+                <teamName>天津先行者</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128446522' start='2024-02-08T11:00:00Z' type='friendly'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='186803'>
+                <teamName>MUFCXZ516</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128443205' start='2024-02-09T10:00:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='69262'>
+                <teamName>强煎的蛋</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345153' start='2024-02-10T11:00:00Z' type='league.rs'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='186022'>
+                <teamName>成都红狼</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345161' start='2024-02-13T11:00:00Z' type='league.rs'>
+            <awayTeam id='188917'>
+                <teamName>Atomic Nucleus</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128454887' start='2024-02-15T11:00:00Z' type='friendly'>
+            <awayTeam id='276044'>
+                <teamName>Katyushas Jr</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128449958' start='2024-02-16T10:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='188752'>
+                <teamName>四线训练营</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127345168' start='2024-02-17T11:00:00Z' type='league.rs.tv'>
+            <awayTeam id='188883'>
+                <teamName>夏洛特黄蜂</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128460729' start='2024-02-20T11:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='188917'>
+                <teamName>Atomic Nucleus</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128505019' start='2024-02-22T11:00:00Z' type='friendly'>
+            <awayTeam id='269868'>
+                <teamName>Detroit Mercy Mavericks</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128456286' start='2024-02-23T10:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='69237'>
+                <teamName>TEAM-3D</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128533492' start='2024-02-24T11:00:00Z' type='league.semifinal'>
+            <awayTeam id='25409'>
+                <teamName>RRL</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128565620' start='2024-02-27T11:00:00Z' type='league.final'>
+            <awayTeam id='186109'>
+                <teamName>西江月</teamName>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128565621' start='2024-03-02T11:00:00Z' type='league.final'>
+            <awayTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+            </awayTeam>
+            <homeTeam id='186109'>
+                <teamName>西江月</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128565622' start='2024-03-03T11:00:00Z' type='league.final'>
+            <awayTeam id='186109'>
+                <teamName>西江月</teamName>
+            </awayTeam>
+            <homeTeam id='187159'>
+                <teamName>MX.武汉长江</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

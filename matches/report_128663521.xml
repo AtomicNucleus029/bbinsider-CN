@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663521</MatchID>
+		<HomeTeam>
+			<ID>188231</ID>
+			<Name>AKAxuan</Name>
+			<ShortName>AKA</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>187586</ID>
+			<Name>河洛逐风者</Name>
+			<ShortName>???</ShortName>
+		</AwayTeam>
+		<ArenaName>AKAxuan</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:10 PM</Time>
+    	<StartTime>4/2/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2284669</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL>https://files.catbox.moe/hnnbtu.png</CourtURL>
+	    <LinesColors>239,214,177</LinesColors>
+	    <HomeShotColors>63,229,61</HomeShotColors>
+	    <AwayShotColors>28,54,245</AwayShotColors>
+	</BBData>
+	

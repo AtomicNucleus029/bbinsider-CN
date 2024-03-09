@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='30453' season='63' retrieved='2024-02-27T21:40:29Z'>
+        <match id='127309575' start='2023-12-01T01:00:00Z' type='friendly'>
+            <awayTeam id='276056'>
+                <teamName>Cutters II</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310847' start='2023-12-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310858' start='2023-12-06T01:00:00Z' type='league.rs'>
+            <awayTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309569' start='2023-12-06T16:55:00Z' type='bbm'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='45791'>
+                <teamName>Cipolla</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311751' start='2023-12-08T01:00:00Z' type='cup'>
+            <awayTeam id='28492'>
+                <teamName>Stark Future</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310865' start='2023-12-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310872' start='2023-12-13T01:00:00Z' type='league.rs'>
+            <awayTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>144</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>22</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320298' start='2023-12-13T09:00:00Z' type='bbm'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='196354'>
+                <teamName>Wolves Revenge</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128343655' start='2023-12-15T01:00:00Z' type='cup'>
+            <awayTeam id='30342'>
+                <teamName>Bull Horns</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310881' start='2023-12-17T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310889' start='2023-12-20T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>156</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347605' start='2023-12-20T16:30:00Z' type='bbm'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='58210'>
+                <teamName>M&amp;M Team</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128363008' start='2023-12-22T01:00:00Z' type='cup'>
+            <awayTeam id='30976'>
+                <teamName>ReTro 57 lIvEs</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310897' start='2023-12-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>159</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310907' start='2023-12-27T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366781' start='2023-12-27T19:00:00Z' type='bbm'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='78811'>
+                <teamName>los convictos</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128377853' start='2023-12-29T01:00:00Z' type='cup'>
+            <awayTeam id='29120'>
+                <teamName>Rose City Raccoons</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310915' start='2023-12-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>149</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310923' start='2024-01-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128382333' start='2024-01-03T18:05:00Z' type='bbm'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='116699'>
+                <teamName>Buggeland Snakes</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310931' start='2024-01-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310939' start='2024-01-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>169</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397443' start='2024-01-10T17:40:00Z' type='bbm'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='119538'>
+                <teamName>Blue or Deaddd</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128408019' start='2024-01-12T01:00:00Z' type='friendly'>
+            <awayTeam id='46658'>
+                <teamName>gatteo mare</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310947' start='2024-01-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>140</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>25</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128412523' start='2024-01-18T01:00:00Z' type='bbm'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='29691'>
+                <teamName>The Kansas Jayhawks</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000001' start='2024-01-18T01:00:00Z' type='unknown'>
+            <awayTeam id='1'>
+                <teamName>Great 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='1'>
+                <teamName>Big 8</teamName>
+<score>182</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310955' start='2024-01-21T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310963' start='2024-01-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>209</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128430455' start='2024-01-26T01:00:00Z' type='friendly'>
+            <awayTeam id='69859'>
+                <teamName>滨州生可乐</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310967' start='2024-01-28T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>155</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>31</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310978' start='2024-01-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>180</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310985' start='2024-02-04T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>154</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310992' start='2024-02-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>203</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311001' start='2024-02-11T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311009' start='2024-02-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>165</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311017' start='2024-02-18T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>201</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128558140' start='2024-02-25T01:00:00Z' type='friendly'>
+            <awayTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>155</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128615055' start='2024-03-03T01:00:00Z' type='friendly'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+            </awayTeam>
+            <homeTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

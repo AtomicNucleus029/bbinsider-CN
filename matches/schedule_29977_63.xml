@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='29977' season='63' retrieved='2024-02-27T21:40:27Z'>
+        <match id='127308869' start='2023-12-01T01:00:00Z' type='friendly'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='28670'>
+                <teamName>Zellars</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310849' start='2023-12-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310857' start='2023-12-06T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309339' start='2023-12-06T17:40:00Z' type='bbb'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='177409'>
+                <teamName>Mighty Ducks cz</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311380' start='2023-12-08T01:00:00Z' type='cup'>
+            <awayTeam id='30903'>
+                <teamName>cheese island</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310865' start='2023-12-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310873' start='2023-12-13T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320243' start='2023-12-13T16:30:00Z' type='bbb'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='89417'>
+                <teamName>Supernova Elites</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128343774' start='2023-12-15T01:00:00Z' type='cup'>
+            <awayTeam id='28472'>
+                <teamName>EMCollege</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310879' start='2023-12-17T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310888' start='2023-12-20T01:00:00Z' type='league.rs'>
+            <awayTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347398' start='2023-12-21T01:00:00Z' type='bbb'>
+            <awayTeam id='105392'>
+                <teamName>The Defenders</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128362934' start='2023-12-22T01:00:00Z' type='cup'>
+            <awayTeam id='30337'>
+                <teamName>loser beater</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310896' start='2023-12-24T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310905' start='2023-12-27T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366354' start='2023-12-28T01:00:00Z' type='bbb'>
+            <awayTeam id='96284'>
+                <teamName>vagancias</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128377982' start='2023-12-29T01:00:00Z' type='cup'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='31234'>
+                <teamName>Orlando Outrageous Oilers</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310913' start='2023-12-31T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310921' start='2024-01-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128381983' start='2024-01-04T01:00:00Z' type='bbb'>
+            <awayTeam id='35786'>
+                <teamName>Venomous Vicious Vipers</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128391990' start='2024-01-05T01:00:00Z' type='cup'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310929' start='2024-01-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310937' start='2024-01-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>23</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397087' start='2024-01-10T15:55:00Z' type='bbb'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='92110'>
+                <teamName>the flys</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310945' start='2024-01-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128411999' start='2024-01-17T19:00:00Z' type='bbb'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='276307'>
+                <teamName>Etonic Akeem</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000001' start='2024-01-18T01:00:00Z' type='unknown'>
+            <awayTeam id='1'>
+                <teamName>Great 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='1'>
+                <teamName>Big 8</teamName>
+<score>182</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128424319' start='2024-01-18T17:00:00Z' type='friendly'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='99981'>
+                <teamName>Partizan Jako</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310953' start='2024-01-21T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310961' start='2024-01-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128427515' start='2024-01-25T01:00:00Z' type='bbb.neutral'>
+            <awayTeam id='34117'>
+                <teamName>Tigercats BC</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128428883' start='2024-01-25T11:00:00Z' type='friendly'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='209858'>
+                <teamName>Destinydevil</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310969' start='2024-01-28T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310977' start='2024-01-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128435114' start='2024-02-01T01:00:00Z' type='bbb.neutral'>
+            <awayTeam id='35043'>
+                <teamName>Berlin Street Style</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310985' start='2024-02-04T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>154</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310993' start='2024-02-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310999' start='2024-02-11T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311008' start='2024-02-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311016' start='2024-02-18T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524597' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128558141' start='2024-02-25T01:00:00Z' type='league.semifinal'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128615049' start='2024-03-03T01:00:00Z' type='friendly'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

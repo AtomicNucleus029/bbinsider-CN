@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='63' retrieved='2024-02-27T21:32:39Z'>
+        <league id='150' level='2'>II.1</league>
+        <country id='5'>China</country>
+        <regularSeason>
+            <conference>
+                <team id='186198'>
+                    <teamName>无缺求瑕</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2364</pf>
+                    <pa>1943</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='186965'>
+                    <teamName>Saber Utd</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2243</pf>
+                    <pa>1894</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='189105'>
+                    <teamName>蜗世界</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2291</pf>
+                    <pa>1943</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='69636'>
+                    <teamName>雷霆子怒</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2208</pf>
+                    <pa>1836</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='188628'>
+                    <teamName>皮皮熊</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2103</pf>
+                    <pa>1922</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='189900'>
+                    <teamName>摸鱼摸麻了</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2060</pf>
+                    <pa>2095</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='189979'>
+                    <teamName>Go Suns</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>2236</pf>
+                    <pa>2331</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='188023'>
+                    <teamName>冰雪龙卷风❄️🌪️</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>855</pf>
+                    <pa>2846</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='70075'>
+                    <teamName>pianpi</teamName>
+                    <wins>22</wins>
+                    <losses>0</losses>
+                    <pf>2686</pf>
+                    <pa>1743</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='69465'>
+                    <teamName>Pomato</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2433</pf>
+                    <pa>1966</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='186334'>
+                    <teamName>放开那个大胸妹</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2289</pf>
+                    <pa>1995</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='189219'>
+                    <teamName>雷神大帝</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2155</pf>
+                    <pa>2073</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='189303'>
+                    <teamName>Yggdrasills</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2105</pf>
+                    <pa>1921</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='186982'>
+                    <teamName>长颈鹿</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>2175</pf>
+                    <pa>2182</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='69784'>
+                    <teamName>Marvel Comics漫威小队</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1532</pf>
+                    <pa>2486</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='69923'>
+                    <teamName>一阵风</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>1718</pf>
+                    <pa>2277</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='128460558' start='2024-02-20T11:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='69636'>
+                        <teamName>雷霆子怒</teamName>
+<score>105</score>
+                    </awayTeam>
+                    <homeTeam id='186198'>
+                        <teamName>无缺求瑕</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460559' start='2024-02-20T11:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='189105'>
+                        <teamName>蜗世界</teamName>
+<score>88</score>
+                    </awayTeam>
+                    <homeTeam id='186965'>
+                        <teamName>Saber Utd</teamName>
+<score>75</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460560' start='2024-02-20T11:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='189219'>
+                        <teamName>雷神大帝</teamName>
+<score>109</score>
+                    </awayTeam>
+                    <homeTeam id='70075'>
+                        <teamName>pianpi</teamName>
+<score>122</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460561' start='2024-02-20T11:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='186334'>
+                        <teamName>放开那个大胸妹</teamName>
+<score>102</score>
+                    </awayTeam>
+                    <homeTeam id='69465'>
+                        <teamName>Pomato</teamName>
+<score>111</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='128533426' start='2024-02-24T11:00:00Z' type='league.semifinal'>
+                    <awayTeam id='189105'>
+                        <teamName>蜗世界</teamName>
+<score>94</score>
+                    </awayTeam>
+                    <homeTeam id='186198'>
+                        <teamName>无缺求瑕</teamName>
+<score>103</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128533427' start='2024-02-24T11:00:00Z' type='league.semifinal'>
+                    <awayTeam id='69465'>
+                        <teamName>Pomato</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='70075'>
+                        <teamName>pianpi</teamName>
+<score>94</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='128565490' start='2024-02-27T11:00:00Z' type='league.final'>
+                    <awayTeam id='186198'>
+                        <teamName>无缺求瑕</teamName>
+<score>98</score>
+                    </awayTeam>
+                    <homeTeam id='70075'>
+                        <teamName>pianpi</teamName>
+<score>84</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128565491' start='2024-03-02T11:00:00Z' type='league.final'>
+                    <awayTeam id='70075'>
+                        <teamName>pianpi</teamName>
+                    </awayTeam>
+                    <homeTeam id='186198'>
+                        <teamName>无缺求瑕</teamName>
+                    </homeTeam>
+                </match>
+                
+                <match id='128565492' start='2024-03-03T11:00:00Z' type='league.final'>
+                    <awayTeam id='186198'>
+                        <teamName>无缺求瑕</teamName>
+                    </awayTeam>
+                    <homeTeam id='70075'>
+                        <teamName>pianpi</teamName>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='128460562' start='2024-02-20T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='69784'>
+                        <teamName>Marvel Comics漫威小队</teamName>
+<score>113</score>
+                    </awayTeam>
+                    <homeTeam id='188628'>
+                        <teamName>皮皮熊</teamName>
+<score>86</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460565' start='2024-02-20T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='189979'>
+                        <teamName>Go Suns</teamName>
+<score>106</score>
+                    </awayTeam>
+                    <homeTeam id='189303'>
+                        <teamName>Yggdrasills</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460568' start='2024-02-20T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='186982'>
+                        <teamName>长颈鹿</teamName>
+<score>111</score>
+                    </awayTeam>
+                    <homeTeam id='189900'>
+                        <teamName>摸鱼摸麻了</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460563' start='2024-02-24T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='188628'>
+                        <teamName>皮皮熊</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='69784'>
+                        <teamName>Marvel Comics漫威小队</teamName>
+<score>90</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460566' start='2024-02-24T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='189303'>
+                        <teamName>Yggdrasills</teamName>
+<score>118</score>
+                    </awayTeam>
+                    <homeTeam id='189979'>
+                        <teamName>Go Suns</teamName>
+<score>126</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460569' start='2024-02-24T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='189900'>
+                        <teamName>摸鱼摸麻了</teamName>
+<score>70</score>
+                    </awayTeam>
+                    <homeTeam id='186982'>
+                        <teamName>长颈鹿</teamName>
+<score>118</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128460570' start='2024-02-27T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='186982'>
+                        <teamName>长颈鹿</teamName>
+<score>97</score>
+                    </awayTeam>
+                    <homeTeam id='189900'>
+                        <teamName>摸鱼摸麻了</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+        
+    </standings>
+</bbapi>

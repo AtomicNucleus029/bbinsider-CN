@@ -1,0 +1,713 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='29193' season='63' retrieved='2024-02-27T21:40:27Z'>
+        <match id='127306795' start='2023-11-30T16:30:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='143583'>
+                <teamName>Sporting BC</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='125715169' start='2023-12-02T00:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='28851'>
+                <teamName>Johns Creek Wave</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310850' start='2023-12-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310857' start='2023-12-06T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309859' start='2023-12-07T01:00:00Z' type='bbm'>
+            <awayTeam id='38798'>
+                <teamName>IGutz</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311873' start='2023-12-08T01:00:00Z' type='cup'>
+            <awayTeam id='29222'>
+                <teamName>Winking Mares</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='125715178' start='2023-12-09T00:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='35730'>
+                <teamName>basket haute gironde</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310864' start='2023-12-10T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310871' start='2023-12-13T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320786' start='2023-12-14T01:00:00Z' type='bbm'>
+            <awayTeam id='96350'>
+                <teamName>toketiados</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128343589' start='2023-12-15T01:00:00Z' type='cup'>
+            <awayTeam id='23455'>
+                <teamName>killer bulls</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128345457' start='2023-12-16T01:00:00Z' type='pl.quarterfinal'>
+            <awayTeam id='29950'>
+                <teamName>BU Terriers</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310882' start='2023-12-17T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310889' start='2023-12-20T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>156</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347889' start='2023-12-21T01:00:00Z' type='bbm'>
+            <awayTeam id='78928'>
+                <teamName>Los Lagartijos</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128362927' start='2023-12-22T01:00:00Z' type='cup'>
+            <awayTeam id='266565'>
+                <teamName>Missed Layups</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128364248' start='2023-12-23T01:00:00Z' type='pl.semifinal'>
+            <awayTeam id='46407'>
+                <teamName>Fortitudo BB</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310898' start='2023-12-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310910' start='2023-12-27T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366841' start='2023-12-28T01:00:00Z' type='bbm'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='28301'>
+                <teamName>Cassville Yuck</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128377870' start='2023-12-29T01:00:00Z' type='cup'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='32074'>
+                <teamName>junkyard jammmers</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128378612' start='2023-12-30T01:00:00Z' type='pl.final'>
+            <awayTeam id='28851'>
+                <teamName>Johns Creek Wave</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310918' start='2023-12-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310926' start='2024-01-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128382474' start='2024-01-04T01:00:00Z' type='bbm'>
+            <awayTeam id='51795'>
+                <teamName>Alfa One</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128392021' start='2024-01-05T01:00:00Z' type='cup'>
+            <awayTeam id='28266'>
+                <teamName>Black Light</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310934' start='2024-01-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310942' start='2024-01-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397447' start='2024-01-10T18:00:00Z' type='bbm'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='34519'>
+                <teamName>FearS1 All Stars</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128405861' start='2024-01-12T01:00:00Z' type='cup'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='29597'>
+                <teamName>LionPride</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419672' start='2024-01-12T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='35424'>
+                <teamName>Boulettes</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310950' start='2024-01-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128412063' start='2024-01-17T13:00:00Z' type='bbm'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='275921'>
+                <teamName>Talpone</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000001' start='2024-01-18T01:00:00Z' type='unknown'>
+            <awayTeam id='1'>
+                <teamName>Great 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='1'>
+                <teamName>Big 8</teamName>
+<score>182</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128425516' start='2024-01-18T11:30:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='198409'>
+                <teamName>砵蘭街拾荒者</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419675' start='2024-01-19T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='278500'>
+                <teamName>Bc berkane</teamName>
+<score>27</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310958' start='2024-01-21T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310966' start='2024-01-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128429668' start='2024-01-26T00:00:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='276015'>
+                <teamName>Lil Baobao</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419680' start='2024-01-26T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310970' start='2024-01-28T01:00:00Z' type='league.rs'>
+            <awayTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310977' start='2024-01-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128437529' start='2024-02-01T16:35:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='57084'>
+                <teamName>star4ever</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419685' start='2024-02-02T17:00:00Z' type='pl.rs'>
+            <awayTeam id='44919'>
+                <teamName>Pliska</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310984' start='2024-02-04T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310991' start='2024-02-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128445218' start='2024-02-08T19:00:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='277216'>
+                <teamName>Kudirkos Naumiestis</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419690' start='2024-02-09T17:00:00Z' type='pl.rs'>
+            <awayTeam id='31111'>
+                <teamName>Vanaheim Norse</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311002' start='2024-02-11T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311009' start='2024-02-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>165</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128452210' start='2024-02-15T19:00:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='276978'>
+                <teamName>Club Deportivo San Andres B</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419694' start='2024-02-16T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='27207'>
+                <teamName>Sentenza Mavericks</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311018' start='2024-02-18T01:00:00Z' type='league.rs'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524597' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128457669' start='2024-02-22T10:30:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='276935'>
+                <teamName>Strawhat Alliance</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419697' start='2024-02-23T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='36683'>
+                <teamName>AS Barroom Heroes</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128558138' start='2024-02-25T01:00:00Z' type='friendly'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128570221' start='2024-02-29T14:00:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </awayTeam>
+            <homeTeam id='277148'>
+                <teamName>Swan Warriors</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128419700' start='2024-03-01T17:00:00Z' type='pl.rs'>
+            <awayTeam id='35424'>
+                <teamName>Boulettes</teamName>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128615050' start='2024-03-03T01:00:00Z' type='friendly'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128419703' start='2024-03-08T17:00:00Z' type='pl.rs'>
+            <awayTeam id='278500'>
+                <teamName>Bc berkane</teamName>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128419708' start='2024-03-15T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </awayTeam>
+            <homeTeam id='29656'>
+                <teamName>Visionaries</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128419713' start='2024-03-22T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </awayTeam>
+            <homeTeam id='44919'>
+                <teamName>Pliska</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128419718' start='2024-03-29T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </awayTeam>
+            <homeTeam id='31111'>
+                <teamName>Vanaheim Norse</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128419722' start='2024-04-05T17:00:00Z' type='pl.rs'>
+            <awayTeam id='27207'>
+                <teamName>Sentenza Mavericks</teamName>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128419725' start='2024-04-12T17:00:00Z' type='pl.rs'>
+            <awayTeam id='36683'>
+                <teamName>AS Barroom Heroes</teamName>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

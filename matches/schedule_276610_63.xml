@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='276610' season='63' retrieved='2024-02-28T19:33:21Z'>
+        <match id='128289627' start='2023-12-03T00:00:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='276126'>
+                <teamName>Bombing Team II</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289634' start='2023-12-05T19:00:00Z' type='league.rs'>
+            <awayTeam id='276858'>
+                <teamName>BunnyShop</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128316340' start='2023-12-06T19:00:00Z' type='bbm'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='135733'>
+                <teamName>Tucans CB</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128275222' start='2023-12-07T15:30:00Z' type='cup'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='277013'>
+                <teamName>KK Scorpions II</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289641' start='2023-12-09T11:00:00Z' type='league.rs.tv'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='276047'>
+                <teamName>庐山升龙霸</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289648' start='2023-12-12T19:00:00Z' type='league.rs'>
+            <awayTeam id='276334'>
+                <teamName>Winter Has Come</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128327394' start='2023-12-14T01:00:00Z' type='bbm'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='23040'>
+                <teamName>Kirk Thuggins</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289659' start='2023-12-16T17:00:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='276179'>
+                <teamName>The Mighty Clucks</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289666' start='2023-12-19T19:00:00Z' type='league.rs'>
+            <awayTeam id='276366'>
+                <teamName>Galatasaray II SM</teamName>
+<score>140</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128354444' start='2023-12-21T00:00:00Z' type='bbm'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='275886'>
+                <teamName>Enosi B.C. II</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289675' start='2023-12-23T17:40:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='276995'>
+                <teamName>Szolnok Pelicans II</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289687' start='2023-12-27T00:00:00Z' type='league.rs.tv'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='275640'>
+                <teamName>Kamnica Tigers II</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128373184' start='2023-12-27T16:55:00Z' type='bbm'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='45506'>
+                <teamName>Bouncers	</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289695' start='2023-12-30T19:00:00Z' type='league.rs'>
+            <awayTeam id='276068'>
+                <teamName>East Taiwan United II</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289703' start='2024-01-03T00:00:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='276827'>
+                <teamName>Karmėlavos Talentai*</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128388975' start='2024-01-03T19:00:00Z' type='bbm'>
+            <awayTeam id='277197'>
+                <teamName>罗刹海市重明鸟</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289711' start='2024-01-06T19:00:00Z' type='league.rs'>
+            <awayTeam id='277104'>
+                <teamName>Coffeeholics</teamName>
+<score>137</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289719' start='2024-01-09T14:30:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='276004'>
+                <teamName>Baby Sharks</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128403825' start='2024-01-10T11:00:00Z' type='bbm'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='69460'>
+                <teamName>悦皮熊森林队</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289727' start='2024-01-13T19:00:00Z' type='league.rs'>
+            <awayTeam id='276175'>
+                <teamName>Malta Crusaders</teamName>
+<score>145</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419003' start='2024-01-17T19:00:00Z' type='bbm'>
+            <awayTeam id='22963'>
+                <teamName>Stanley FC</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061017722' start='2024-01-18T02:00:00Z' type='unknown'>
+            <awayTeam id='17722'>
+                <teamName>Big 8</teamName>
+<score>171</score>
+            </awayTeam>
+            <homeTeam id='17722'>
+                <teamName>Great 8</teamName>
+<score>173</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289735' start='2024-01-21T00:00:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='276813'>
+                <teamName>C.B. Steakhouse</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289743' start='2024-01-23T19:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289747' start='2024-01-28T00:00:00Z' type='league.rs'>
+            <awayTeam id='276126'>
+                <teamName>Bombing Team II</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289754' start='2024-01-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='276858'>
+                <teamName>BunnyShop</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128437317' start='2024-02-02T00:00:00Z' type='friendly'>
+            <awayTeam id='189073'>
+                <teamName>墨菲斯托</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289761' start='2024-02-04T00:00:00Z' type='league.rs.tv'>
+            <awayTeam id='276047'>
+                <teamName>庐山升龙霸</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289768' start='2024-02-07T00:00:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='276334'>
+                <teamName>Homegrown BC</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128444811' start='2024-02-08T19:00:00Z' type='friendly'>
+            <awayTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='77938'>
+                <teamName>SAgaró Athletic</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289779' start='2024-02-11T00:00:00Z' type='league.rs'>
+            <awayTeam id='276179'>
+                <teamName>The Mighty Clucks</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289786' start='2024-02-13T17:40:00Z' type='league.rs'>
+            <awayTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='276366'>
+                <teamName>Galatasaray II SM</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128451355' start='2024-02-15T16:00:00Z' type='friendly'>
+            <awayTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='72436'>
+                <teamName>Metehan Basket</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289795' start='2024-02-18T00:00:00Z' type='league.rs'>
+            <awayTeam id='276995'>
+                <teamName>Szolnok Pelicans II</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128531606' start='2024-02-23T00:00:00Z' type='friendly'>
+            <awayTeam id='177109'>
+                <teamName>Halfhorses Pardubice</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128560471' start='2024-02-25T02:00:00Z' type='friendly'>
+            <awayTeam id='276813'>
+                <teamName>C.B. Steakhouse</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128563259' start='2024-02-29T19:00:00Z' type='friendly'>
+            <awayTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+            </awayTeam>
+            <homeTeam id='79840'>
+                <teamName>C.B. Atlético San Martín</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128619559' start='2024-03-03T02:00:00Z' type='friendly'>
+            <awayTeam id='276610'>
+                <teamName>gutarrak II</teamName>
+            </awayTeam>
+            <homeTeam id='276813'>
+                <teamName>C.B. Steakhouse</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

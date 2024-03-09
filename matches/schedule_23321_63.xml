@@ -1,0 +1,789 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='23321' season='63' retrieved='2024-02-27T21:40:28Z'>
+        <match id='127307588' start='2023-12-01T01:00:00Z' type='friendly'>
+            <awayTeam id='52729'>
+                <teamName>Team One Malaysia</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='125832327' start='2023-12-01T15:55:00Z' type='pl.rsneutral'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='276372'>
+                <teamName>Jorwas Basket Team II</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310848' start='2023-12-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310855' start='2023-12-06T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309757' start='2023-12-06T18:35:00Z' type='bbm'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='89764'>
+                <teamName>Union Liège</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311456' start='2023-12-08T01:00:00Z' type='cup'>
+            <awayTeam id='270522'>
+                <teamName>Area 51</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='125832333' start='2023-12-08T15:55:00Z' type='pl.rsneutral'>
+            <awayTeam id='34285'>
+                <teamName>Phantoms Braunschweig</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310866' start='2023-12-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310873' start='2023-12-13T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320785' start='2023-12-14T01:00:00Z' type='bbm'>
+            <awayTeam id='35353'>
+                <teamName>Pictave BB</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128344036' start='2023-12-15T01:00:00Z' type='cup'>
+            <awayTeam id='23738'>
+                <teamName>ghitteam</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='125832338' start='2023-12-15T15:55:00Z' type='pl.rsneutral'>
+            <awayTeam id='276067'>
+                <teamName>Utopia 75ers</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310882' start='2023-12-17T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310890' start='2023-12-20T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347901' start='2023-12-21T01:00:00Z' type='bbm'>
+            <awayTeam id='26812'>
+                <teamName>Maria Park BBK</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128363249' start='2023-12-22T01:00:00Z' type='cup'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='31593'>
+                <teamName>Leaf panda</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128364107' start='2023-12-22T16:55:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='140558'>
+                <teamName>Iluro Sport</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310897' start='2023-12-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>159</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310908' start='2023-12-27T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366853' start='2023-12-28T01:00:00Z' type='bbm'>
+            <awayTeam id='85760'>
+                <teamName>poilardteam</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128378044' start='2023-12-29T01:00:00Z' type='cup'>
+            <awayTeam id='23277'>
+                <teamName>Centipedes 🐛</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>146</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128378489' start='2023-12-29T16:55:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='22913'>
+                <teamName>Kiwi Sheep Pimps</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310916' start='2023-12-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310924' start='2024-01-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128382179' start='2024-01-03T16:55:00Z' type='bbm'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='26920'>
+                <teamName>Palermitana Canestri</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128391958' start='2024-01-05T01:00:00Z' type='cup'>
+            <awayTeam id='266421'>
+                <teamName>LA Barbarians</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128392397' start='2024-01-05T16:55:00Z' type='pl.finalneutral'>
+            <awayTeam id='276067'>
+                <teamName>Utopia 75ers</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310932' start='2024-01-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310940' start='2024-01-10T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>146</score>
+            </awayTeam>
+            <homeTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397627' start='2024-01-11T01:00:00Z' type='bbm'>
+            <awayTeam id='122452'>
+                <teamName>BC Tonkpils</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128405884' start='2024-01-12T01:00:00Z' type='cup'>
+            <awayTeam id='30127'>
+                <teamName>The White Mambas</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128410194' start='2024-01-12T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='45038'>
+                <teamName>#MY7H</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310948' start='2024-01-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128420524' start='2024-01-17T01:00:00Z' type='cup'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='29845'>
+                <teamName>Big Gulp Reincarnated</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128412367' start='2024-01-17T18:05:00Z' type='bbm'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='92876'>
+                <teamName>Malabama Giants</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000001' start='2024-01-18T01:00:00Z' type='unknown'>
+            <awayTeam id='1'>
+                <teamName>Great 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='1'>
+                <teamName>Big 8</teamName>
+<score>182</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128426985' start='2024-01-19T01:00:00Z' type='cup'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128410196' start='2024-01-19T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='115289'>
+                <teamName>Club Unión Atlética</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310956' start='2024-01-21T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310964' start='2024-01-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128431508' start='2024-01-25T16:55:00Z' type='friendly'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='152901'>
+                <teamName>Neptunes Basket Bologna</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128410200' start='2024-01-26T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='71602'>
+                <teamName>Golden Swords</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310968' start='2024-01-28T01:00:00Z' type='league.rs'>
+            <awayTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310975' start='2024-01-31T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128440912' start='2024-02-02T01:00:00Z' type='friendly'>
+            <awayTeam id='91504'>
+                <teamName>Camden Kings</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128410204' start='2024-02-02T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='45418'>
+                <teamName>Vigorosa ValTOPA</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310986' start='2024-02-04T01:00:00Z' type='league.rs'>
+            <awayTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310993' start='2024-02-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128447150' start='2024-02-08T15:30:00Z' type='friendly'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='147214'>
+                <teamName>Ball4Life</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128410207' start='2024-02-09T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='75322'>
+                <teamName>Los Furlas Team</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311002' start='2024-02-11T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311010' start='2024-02-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128451778' start='2024-02-16T01:00:00Z' type='friendly'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='23414'>
+                <teamName>Meridian Hill McMornings</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128449996' start='2024-02-16T12:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='45038'>
+                <teamName>#MY7H</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311017' start='2024-02-18T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>201</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524606' start='2024-02-21T01:00:00Z' type='league.relegation'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128460532' start='2024-02-23T01:00:00Z' type='friendly'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='23414'>
+                <teamName>Meridian Hill McMornings</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128459264' start='2024-02-23T17:35:00Z' type='pl.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='39733'>
+                <teamName>KK &amp;quot;Telšiai&amp;quot;</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524607' start='2024-02-25T01:00:00Z' type='league.relegation'>
+            <awayTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128620181' start='2024-03-01T01:00:00Z' type='friendly'>
+            <awayTeam id='276321'>
+                <teamName>Detroit Smashers</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459267' start='2024-03-01T17:35:00Z' type='pl.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </awayTeam>
+            <homeTeam id='51051'>
+                <teamName>&amp;quot;CAPO D&#39; IRLANDA&amp;quot;</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128615053' start='2024-03-03T01:00:00Z' type='friendly'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </awayTeam>
+            <homeTeam id='29656'>
+                <teamName>Visionaries</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459272' start='2024-03-08T17:35:00Z' type='pl.rs'>
+            <awayTeam id='177206'>
+                <teamName>Surikatas Company from  Litvínov</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459277' start='2024-03-15T17:35:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459282' start='2024-03-22T17:35:00Z' type='pl.rs'>
+            <awayTeam id='58392'>
+                <teamName>BC Space Jam</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459286' start='2024-03-29T17:35:00Z' type='pl.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459289' start='2024-04-05T17:35:00Z' type='pl.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </awayTeam>
+            <homeTeam id='106154'>
+                <teamName>C.S.S. 6</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459292' start='2024-04-12T17:35:00Z' type='pl.rs'>
+            <awayTeam id='39733'>
+                <teamName>KK &amp;quot;Telšiai&amp;quot;</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459295' start='2024-04-19T17:35:00Z' type='pl.rs'>
+            <awayTeam id='51051'>
+                <teamName>&amp;quot;CAPO D&#39; IRLANDA&amp;quot;</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459300' start='2024-04-26T17:35:00Z' type='pl.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </awayTeam>
+            <homeTeam id='177206'>
+                <teamName>Surikatas Company from  Litvínov</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459305' start='2024-05-03T17:35:00Z' type='pl.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459310' start='2024-05-10T17:35:00Z' type='pl.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </awayTeam>
+            <homeTeam id='58392'>
+                <teamName>BC Space Jam</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459314' start='2024-05-17T17:35:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128459317' start='2024-05-24T17:35:00Z' type='pl.rs'>
+            <awayTeam id='106154'>
+                <teamName>C.S.S. 6</teamName>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663556</MatchID>
+		<HomeTeam>
+			<ID>188694</ID>
+			<Name>龙虾</Name>
+			<ShortName>??</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188917</ID>
+			<Name>Atomic Nucleus</Name>
+			<ShortName>Ato</ShortName>
+		</AwayTeam>
+		<ArenaName>青蛙池</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:55 PM</Time>
+    	<StartTime>4/16/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-3494344</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663573</MatchID>
+		<HomeTeam>
+			<ID>188883</ID>
+			<Name>夏洛特黄蜂</Name>
+			<ShortName>CHA</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186024</ID>
+			<Name>Hengdian Tai Chi</Name>
+			<ShortName>Hen</ShortName>
+		</AwayTeam>
+		<ArenaName>光谱中心</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:58 PM</Time>
+    	<StartTime>4/30/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-4703941</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

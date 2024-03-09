@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663528</MatchID>
+		<HomeTeam>
+			<ID>187586</ID>
+			<Name>河洛逐风者</Name>
+			<ShortName>???</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186208</ID>
+			<Name>Real vicky</Name>
+			<ShortName>Rea</ShortName>
+		</AwayTeam>
+		<ArenaName>十字街</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:20 PM</Time>
+    	<StartTime>4/6/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2630379</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL>/iproxy.ashx?www2.buzzerbeater.com/match/img/bb-court.png</CourtURL>
+	    <LinesColors>239,214,177</LinesColors>
+	    <HomeShotColors>0,0,0</HomeShotColors>
+	    <AwayShotColors>159,37,22</AwayShotColors>
+	</BBData>
+	

@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='23061' season='63' retrieved='2024-02-27T21:40:29Z'>
+        <match id='127306482' start='2023-12-01T01:00:00Z' type='friendly'>
+            <awayTeam id='35714'>
+                <teamName>BC La Foudre</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310854' start='2023-12-03T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310861' start='2023-12-06T01:00:00Z' type='league.rs'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309855' start='2023-12-07T01:00:00Z' type='bbm'>
+            <awayTeam id='180560'>
+                <teamName>Hanner</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311321' start='2023-12-08T01:00:00Z' type='cup'>
+            <awayTeam id='29793'>
+                <teamName>Pheonix Sparks</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310868' start='2023-12-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>155</score>
+            </awayTeam>
+            <homeTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310875' start='2023-12-13T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320556' start='2023-12-13T17:35:00Z' type='bbm'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128343388' start='2023-12-15T01:00:00Z' type='cup'>
+            <awayTeam id='264881'>
+                <teamName>CloutBoyz</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310886' start='2023-12-17T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310893' start='2023-12-20T01:00:00Z' type='league.rs'>
+            <awayTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347898' start='2023-12-21T01:00:00Z' type='bbm'>
+            <awayTeam id='39306'>
+                <teamName>Nizhny Novgorod Sloths</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128362973' start='2023-12-22T01:00:00Z' type='cup'>
+            <awayTeam id='30400'>
+                <teamName>Durham Bulls</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310902' start='2023-12-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310910' start='2023-12-27T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366849' start='2023-12-28T01:00:00Z' type='bbm'>
+            <awayTeam id='52309'>
+                <teamName>Mezőberényi Pici Pockok</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128377885' start='2023-12-29T01:00:00Z' type='cup'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='29307'>
+                <teamName>Five Horsemen</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310917' start='2023-12-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310924' start='2024-01-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128382469' start='2024-01-04T01:00:00Z' type='bbm'>
+            <awayTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128391964' start='2024-01-05T01:00:00Z' type='cup'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='31748'>
+                <teamName>Minnesota Mean Machine</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310931' start='2024-01-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310938' start='2024-01-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397624' start='2024-01-11T01:00:00Z' type='bbm'>
+            <awayTeam id='145197'>
+                <teamName>Hanibal B.C.</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128405915' start='2024-01-12T01:00:00Z' type='cup'>
+            <awayTeam id='30908'>
+                <teamName>FR-S</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310945' start='2024-01-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128420551' start='2024-01-17T01:00:00Z' type='cup'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='267278'>
+                <teamName>Pittsburgh Pressure</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128412505' start='2024-01-18T01:00:00Z' type='bbm'>
+            <awayTeam id='24945'>
+                <teamName>Lawrence Park Panthers</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000001' start='2024-01-18T01:00:00Z' type='unknown'>
+            <awayTeam id='1'>
+                <teamName>Great 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='1'>
+                <teamName>Big 8</teamName>
+<score>182</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128426988' start='2024-01-19T01:00:00Z' type='cup'>
+            <awayTeam id='28378'>
+                <teamName>10inch Vertical</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310952' start='2024-01-21T01:00:00Z' type='league.rs'>
+            <awayTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310959' start='2024-01-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128427525' start='2024-01-24T17:35:00Z' type='bbm.playoff'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128428323' start='2024-01-26T01:00:00Z' type='cup'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>158</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310974' start='2024-01-28T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310981' start='2024-01-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128435119' start='2024-02-01T01:00:00Z' type='bbm.playoff'>
+            <awayTeam id='194661'>
+                <teamName>Mile High Club</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128437722' start='2024-02-01T14:00:00Z' type='friendly'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='276629'>
+                <teamName>Minions Batinari</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310988' start='2024-02-04T01:00:00Z' type='league.rs'>
+            <awayTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310995' start='2024-02-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128444436' start='2024-02-08T16:30:00Z' type='friendly'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='144203'>
+                <teamName>Psisasters</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311006' start='2024-02-11T01:00:00Z' type='league.rs'>
+            <awayTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311013' start='2024-02-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128451008' start='2024-02-15T19:00:00Z' type='friendly'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='276125'>
+                <teamName>Utopia Vatos</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311022' start='2024-02-18T01:00:00Z' type='league.rs'>
+            <awayTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524599' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128457993' start='2024-02-22T16:35:00Z' type='friendly'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='57118'>
+                <teamName>Brigada Diverse</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128558142' start='2024-02-25T01:00:00Z' type='league.semifinal'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128563028' start='2024-02-29T17:00:00Z' type='friendly'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+            </awayTeam>
+            <homeTeam id='97957'>
+                <teamName>BirdMan #11</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128615049' start='2024-03-03T01:00:00Z' type='friendly'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

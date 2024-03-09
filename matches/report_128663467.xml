@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663467</MatchID>
+		<HomeTeam>
+			<ID>186457</ID>
+			<Name>九州流浪者</Name>
+			<ShortName>???</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186570</ID>
+			<Name>Cha1</Name>
+			<ShortName>Cha</ShortName>
+		</AwayTeam>
+		<ArenaName>蜂窝中心</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:31 PM</Time>
+    	<StartTime>3/9/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-211168</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663519</MatchID>
+		<HomeTeam>
+			<ID>188912</ID>
+			<Name>九州</Name>
+			<ShortName>jz</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186457</ID>
+			<Name>九州流浪者</Name>
+			<ShortName>???</ShortName>
+		</AwayTeam>
+		<ArenaName>大地</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:37 PM</Time>
+    	<StartTime>4/2/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2284642</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

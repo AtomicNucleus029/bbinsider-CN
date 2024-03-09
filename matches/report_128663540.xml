@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663540</MatchID>
+		<HomeTeam>
+			<ID>188694</ID>
+			<Name>龙虾</Name>
+			<ShortName>??</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>25409</ID>
+			<Name>RRL</Name>
+			<ShortName>RRL</ShortName>
+		</AwayTeam>
+		<ArenaName>青蛙池</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:51 PM</Time>
+    	<StartTime>4/9/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2889548</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

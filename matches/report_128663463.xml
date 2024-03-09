@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663463</MatchID>
+		<HomeTeam>
+			<ID>188912</ID>
+			<Name>九州</Name>
+			<ShortName>jz</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>69588</ID>
+			<Name>TJJTDS</Name>
+			<ShortName>wx</ShortName>
+		</AwayTeam>
+		<ArenaName>大地</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:40 PM</Time>
+    	<StartTime>3/9/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-211159</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663482</MatchID>
+		<HomeTeam>
+			<ID>25409</ID>
+			<Name>RRL</Name>
+			<ShortName>RRL</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188883</ID>
+			<Name>夏洛特黄蜂</Name>
+			<ShortName>CHA</ShortName>
+		</AwayTeam>
+		<ArenaName>Thompson-Boling Arena</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:44 PM</Time>
+    	<StartTime>3/16/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-815835</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

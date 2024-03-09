@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='63' retrieved='2024-02-28T19:33:14Z'>
+        <league id='17722' level='4'>IV.61</league>
+        <country id='99'>Utopia</country>
+        <regularSeason>
+            <conference>
+                <team id='276858'>
+                    <teamName>BunnyShop</teamName>
+                    <wins>21</wins>
+                    <losses>1</losses>
+                    <pf>2487</pf>
+                    <pa>1268</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276995'>
+                    <teamName>Szolnok Pelicans II</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2335</pf>
+                    <pa>1428</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276179'>
+                    <teamName>The Mighty Clucks</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>2255</pf>
+                    <pa>1872</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276126'>
+                    <teamName>Bombing Team II</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1893</pf>
+                    <pa>2301</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276047'>
+                    <teamName>庐山升龙霸</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1776</pf>
+                    <pa>2110</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276366'>
+                    <teamName>Galatasaray II SM</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>2045</pf>
+                    <pa>2404</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276334'>
+                    <teamName>Homegrown BC</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1493</pf>
+                    <pa>2134</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276610'>
+                    <teamName>gutarrak II</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1378</pf>
+                    <pa>2478</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='276175'>
+                    <teamName>Malta Crusaders</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2695</pf>
+                    <pa>2106</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276827'>
+                    <teamName>Karmėlavos Talentai*</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2261</pf>
+                    <pa>1698</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276461'>
+                    <teamName>Vesperia</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1753</pf>
+                    <pa>1524</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='275640'>
+                    <teamName>Kamnica Tigers II</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2091</pf>
+                    <pa>1838</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276004'>
+                    <teamName>Baby Sharks</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2065</pf>
+                    <pa>2039</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='277104'>
+                    <teamName>Coffeeholics</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>2055</pf>
+                    <pa>1975</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276068'>
+                    <teamName>East Taiwan United II</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1477</pf>
+                    <pa>1995</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='276813'>
+                    <teamName>C.B. Steakhouse</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>1511</pf>
+                    <pa>2400</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='128530165' start='2024-02-20T17:40:00Z' type='league.quarterfinal'>
+                    <awayTeam id='276179'>
+                        <teamName>The Mighty Clucks</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='276995'>
+                        <teamName>Szolnok Pelicans II</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128530166' start='2024-02-20T18:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='275640'>
+                        <teamName>Kamnica Tigers II</teamName>
+<score>111</score>
+                    </awayTeam>
+                    <homeTeam id='276175'>
+                        <teamName>Malta Crusaders</teamName>
+<score>121</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128530167' start='2024-02-21T00:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='276461'>
+                        <teamName>Vesperia</teamName>
+<score>52</score>
+                    </awayTeam>
+                    <homeTeam id='276827'>
+                        <teamName>Karmėlavos Talentai*</teamName>
+<score>86</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128530164' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='276126'>
+                        <teamName>Bombing Team II</teamName>
+<score>46</score>
+                    </awayTeam>
+                    <homeTeam id='276858'>
+                        <teamName>BunnyShop</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='128560473' start='2024-02-24T18:00:00Z' type='league.semifinal'>
+                    <awayTeam id='276827'>
+                        <teamName>Karmėlavos Talentai*</teamName>
+<score>123</score>
+                    </awayTeam>
+                    <homeTeam id='276175'>
+                        <teamName>Malta Crusaders</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128560472' start='2024-02-25T01:00:00Z' type='league.semifinal'>
+                    <awayTeam id='276995'>
+                        <teamName>Szolnok Pelicans II</teamName>
+<score>70</score>
+                    </awayTeam>
+                    <homeTeam id='276858'>
+                        <teamName>BunnyShop</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='128619560' start='2024-02-28T01:00:00Z' type='league.final'>
+                    <awayTeam id='276827'>
+                        <teamName>Karmėlavos Talentai*</teamName>
+<score>75</score>
+                    </awayTeam>
+                    <homeTeam id='276858'>
+                        <teamName>BunnyShop</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128619561' start='2024-03-03T00:00:00Z' type='league.final'>
+                    <awayTeam id='276858'>
+                        <teamName>BunnyShop</teamName>
+                    </awayTeam>
+                    <homeTeam id='276827'>
+                        <teamName>Karmėlavos Talentai*</teamName>
+                    </homeTeam>
+                </match>
+                
+                <match id='128619562' start='2024-03-04T01:00:00Z' type='league.final'>
+                    <awayTeam id='276827'>
+                        <teamName>Karmėlavos Talentai*</teamName>
+                    </awayTeam>
+                    <homeTeam id='276858'>
+                        <teamName>BunnyShop</teamName>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='128530168' start='2024-02-20T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='277104'>
+                        <teamName>Coffeeholics</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='276047'>
+                        <teamName>庐山升龙霸</teamName>
+<score>95</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128530171' start='2024-02-20T14:30:00Z' type='league.relegation'>
+                    <awayTeam id='276366'>
+                        <teamName>Galatasaray II SM</teamName>
+<score>75</score>
+                    </awayTeam>
+                    <homeTeam id='276004'>
+                        <teamName>Baby Sharks</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128530172' start='2024-02-24T17:40:00Z' type='league.relegation'>
+                    <awayTeam id='276004'>
+                        <teamName>Baby Sharks</teamName>
+<score>126</score>
+                    </awayTeam>
+                    <homeTeam id='276366'>
+                        <teamName>Galatasaray II SM</teamName>
+<score>84</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128530169' start='2024-02-24T19:00:00Z' type='league.relegation'>
+                    <awayTeam id='276047'>
+                        <teamName>庐山升龙霸</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='277104'>
+                        <teamName>Coffeeholics</teamName>
+<score>111</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128530170' start='2024-02-27T11:00:00Z' type='league.relegation'>
+                    <awayTeam id='277104'>
+                        <teamName>Coffeeholics</teamName>
+<score>119</score>
+                    </awayTeam>
+                    <homeTeam id='276047'>
+                        <teamName>庐山升龙霸</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+        
+    </standings>
+</bbapi>

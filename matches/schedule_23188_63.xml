@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='23188' season='63' retrieved='2024-02-27T21:40:29Z'>
+        <match id='127307705' start='2023-12-01T01:00:00Z' type='friendly'>
+            <awayTeam id='104950'>
+                <teamName>BC Valter 2020</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310847' start='2023-12-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310855' start='2023-12-06T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309373' start='2023-12-06T10:30:00Z' type='bbm'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='54232'>
+                <teamName>DU30</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311635' start='2023-12-08T01:00:00Z' type='cup'>
+            <awayTeam id='272035'>
+                <teamName>Thin Skinned Grapes</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310863' start='2023-12-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310871' start='2023-12-13T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320391' start='2023-12-13T15:30:00Z' type='bbm'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='178174'>
+                <teamName>BC Cold Hands</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128343888' start='2023-12-15T01:00:00Z' type='cup'>
+            <awayTeam id='28201'>
+                <teamName>Memphis Ballerz</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310879' start='2023-12-17T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310887' start='2023-12-20T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347515' start='2023-12-20T15:30:00Z' type='bbm'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='178425'>
+                <teamName>KK &amp;quot;Šalvis&amp;quot;</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128362880' start='2023-12-22T01:00:00Z' type='cup'>
+            <awayTeam id='28957'>
+                <teamName>Miami Huskies</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310895' start='2023-12-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310903' start='2023-12-27T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366434' start='2023-12-27T15:00:00Z' type='bbm'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='166734'>
+                <teamName>СССР</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128378064' start='2023-12-29T01:00:00Z' type='cup'>
+            <awayTeam id='30128'>
+                <teamName>Lighting McQueefs</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310911' start='2023-12-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310919' start='2024-01-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128382415' start='2024-01-03T19:30:00Z' type='bbm'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='102802'>
+                <teamName>Pinhal Novo Magic</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128391972' start='2024-01-05T01:00:00Z' type='cup'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='264162'>
+                <teamName>Finisher23</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310927' start='2024-01-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310935' start='2024-01-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397260' start='2024-01-10T15:55:00Z' type='bbm'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='150974'>
+                <teamName>Red Head</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128407714' start='2024-01-12T01:00:00Z' type='friendly'>
+            <awayTeam id='28879'>
+                <teamName>GR Venom</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310943' start='2024-01-14T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128412506' start='2024-01-18T01:00:00Z' type='bbm'>
+            <awayTeam id='276098'>
+                <teamName>Goblin Juice</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000001' start='2024-01-18T01:00:00Z' type='unknown'>
+            <awayTeam id='1'>
+                <teamName>Great 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='1'>
+                <teamName>Big 8</teamName>
+<score>182</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128422686' start='2024-01-18T18:30:00Z' type='friendly'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='88591'>
+                <teamName>black hawks of cuzorn</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310951' start='2024-01-21T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310959' start='2024-01-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128430499' start='2024-01-25T16:30:00Z' type='friendly'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='120091'>
+                <teamName>Korela Lutino</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310967' start='2024-01-28T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>155</score>
+            </awayTeam>
+            <homeTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>31</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310975' start='2024-01-31T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128437548' start='2024-02-02T01:00:00Z' type='friendly'>
+            <awayTeam id='28879'>
+                <teamName>GR Venom</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310983' start='2024-02-04T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310991' start='2024-02-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128448924' start='2024-02-08T16:30:00Z' type='friendly'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='114067'>
+                <teamName>KK Volče Team</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310999' start='2024-02-11T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311007' start='2024-02-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311015' start='2024-02-18T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524603' start='2024-02-21T01:00:00Z' type='league.relegation'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128460494' start='2024-02-22T17:00:00Z' type='friendly'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='276576'>
+                <teamName>BC Laimingas Šūvis</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524604' start='2024-02-25T01:00:00Z' type='league.relegation'>
+            <awayTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524605' start='2024-02-28T01:00:00Z' type='league.relegation'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128571658' start='2024-03-01T01:00:00Z' type='friendly'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+            </awayTeam>
+            <homeTeam id='29267'>
+                <teamName>AMC SPIRITS</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128615054' start='2024-03-03T01:00:00Z' type='friendly'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+            </awayTeam>
+            <homeTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

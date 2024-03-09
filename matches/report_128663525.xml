@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663525</MatchID>
+		<HomeTeam>
+			<ID>25409</ID>
+			<Name>RRL</Name>
+			<ShortName>RRL</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186024</ID>
+			<Name>Hengdian Tai Chi</Name>
+			<ShortName>Hen</ShortName>
+		</AwayTeam>
+		<ArenaName>Thompson-Boling Arena</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:19:51 PM</Time>
+    	<StartTime>4/6/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2630408</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

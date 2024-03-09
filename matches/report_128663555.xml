@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663555</MatchID>
+		<HomeTeam>
+			<ID>69588</ID>
+			<Name>TJJTDS</Name>
+			<ShortName>wx</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186457</ID>
+			<Name>九州流浪者</Name>
+			<ShortName>???</ShortName>
+		</AwayTeam>
+		<ArenaName>水屋中心</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:14 PM</Time>
+    	<StartTime>4/16/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-3494265</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

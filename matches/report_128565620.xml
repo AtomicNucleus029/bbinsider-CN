@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128565620</MatchID>
+		<HomeTeam>
+			<ID>187159</ID>
+			<Name>MX.武汉长江</Name>
+			<ShortName>WHC</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186109</ID>
+			<Name>西江月</Name>
+			<ShortName>xjy</ShortName>
+		</AwayTeam>
+		<ArenaName>wuhantiyuzhongxin</ArenaName>
+		
+				
+	    
+		<Time>2/25/2024 8:56:12 PM</Time>
+    	<StartTime>2/27/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-119027</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL>/iproxy.ashx?www2.buzzerbeater.com/match/img/bb-court.png</CourtURL>
+	    <LinesColors>239,214,177</LinesColors>
+	    <HomeShotColors>0,0,0</HomeShotColors>
+	    <AwayShotColors>159,37,22</AwayShotColors>
+	</BBData>
+	

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663581</MatchID>
+		<HomeTeam>
+			<ID>188231</ID>
+			<Name>AKAxuan</Name>
+			<ShortName>AKA</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186024</ID>
+			<Name>Hengdian Tai Chi</Name>
+			<ShortName>Hen</ShortName>
+		</AwayTeam>
+		<ArenaName>AKAxuan</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:22 PM</Time>
+    	<StartTime>5/4/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-5049577</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL>https://files.catbox.moe/hnnbtu.png</CourtURL>
+	    <LinesColors>239,214,177</LinesColors>
+	    <HomeShotColors>63,229,61</HomeShotColors>
+	    <AwayShotColors>28,54,245</AwayShotColors>
+	</BBData>
+	

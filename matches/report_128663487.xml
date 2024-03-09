@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663487</MatchID>
+		<HomeTeam>
+			<ID>186109</ID>
+			<Name>西江月</Name>
+			<ShortName>xjy</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188912</ID>
+			<Name>九州</Name>
+			<ShortName>jz</ShortName>
+		</AwayTeam>
+		<ArenaName>渺小生物角斗场</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:11 PM</Time>
+    	<StartTime>3/19/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-1075068</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

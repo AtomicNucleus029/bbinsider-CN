@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663470</MatchID>
+		<HomeTeam>
+			<ID>69588</ID>
+			<Name>TJJTDS</Name>
+			<ShortName>wx</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>25268</ID>
+			<Name>MarsMJ</Name>
+			<ShortName>Mar</ShortName>
+		</AwayTeam>
+		<ArenaName>水屋中心</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:19:45 PM</Time>
+    	<StartTime>3/12/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-470414</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

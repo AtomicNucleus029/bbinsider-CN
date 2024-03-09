@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663561</MatchID>
+		<HomeTeam>
+			<ID>25409</ID>
+			<Name>RRL</Name>
+			<ShortName>RRL</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188231</ID>
+			<Name>AKAxuan</Name>
+			<ShortName>AKA</ShortName>
+		</AwayTeam>
+		<ArenaName>Thompson-Boling Arena</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:32 PM</Time>
+    	<StartTime>4/20/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-3839967</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

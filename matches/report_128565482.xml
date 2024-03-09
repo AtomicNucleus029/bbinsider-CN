@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128565482</MatchID>
+		<HomeTeam>
+			<ID>188835</ID>
+			<Name>明教</Name>
+			<ShortName>MJ</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>70024</ID>
+			<Name>Rio Grande Valley Vipers</Name>
+			<ShortName>Rio</ShortName>
+		</AwayTeam>
+		<ArenaName>光明顶</ArenaName>
+		
+				
+	    
+		<Time>2/26/2024 11:46:18 PM</Time>
+    	<StartTime>3/3/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-454421</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='187710' season='63' retrieved='2024-02-27T04:44:55Z'>
+        <match id='127306314' start='2023-11-30T11:00:00Z' type='friendly'>
+            <awayTeam id='70145'>
+                <teamName>半壁见海日-空中闻土鸡</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340489' start='2023-12-02T11:00:00Z' type='league.rs.tv'>
+            <awayTeam id='187068'>
+                <teamName>旭日冲天</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340497' start='2023-12-05T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='186553'>
+                <teamName>☀️我们的队伍向太阳☀️</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309382' start='2023-12-06T11:00:00Z' type='bbm'>
+            <awayTeam id='92744'>
+                <teamName>Kurokos Basketball</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127341130' start='2023-12-07T11:00:00Z' type='cup'>
+            <awayTeam id='188336'>
+                <teamName>永不放弃De心</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340505' start='2023-12-09T11:00:00Z' type='league.rs'>
+            <awayTeam id='70024'>
+                <teamName>Rio Grande Valley Vipers</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340513' start='2023-12-12T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='187743'>
+                <teamName>公鸡</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320312' start='2023-12-13T11:00:00Z' type='bbm'>
+            <awayTeam id='98580'>
+                <teamName>Ledolomci</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128328868' start='2023-12-14T11:00:00Z' type='cup'>
+            <awayTeam id='186343'>
+                <teamName>UnitedCenter</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340519' start='2023-12-16T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='25146'>
+                <teamName>专业废苗</teamName>
+<score>31</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340526' start='2023-12-19T11:00:00Z' type='league.rs'>
+            <awayTeam id='69905'>
+                <teamName>suntianxia</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347421' start='2023-12-20T11:00:00Z' type='bbm'>
+            <awayTeam id='57106'>
+                <teamName>Universitatea Cluj</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128355783' start='2023-12-21T11:00:00Z' type='cup'>
+            <awayTeam id='187177'>
+                <teamName>Wujiusi Whiz</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340535' start='2023-12-23T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='69750'>
+                <teamName>世俗总要男人无惧无畏</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340541' start='2023-12-26T11:00:00Z' type='league.rs'>
+            <awayTeam id='189452'>
+                <teamName>神教小旋风之渣灰</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366375' start='2023-12-27T11:00:00Z' type='bbm'>
+            <awayTeam id='173361'>
+                <teamName>Rakuunat</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128374258' start='2023-12-28T11:00:00Z' type='cup'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='188229'>
+                <teamName>昂立酱油队</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340548' start='2023-12-30T11:00:00Z' type='league.rs.tv'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='69509'>
+                <teamName>淡定从容</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340555' start='2024-01-02T11:00:00Z' type='league.rs'>
+            <awayTeam id='189730'>
+                <teamName>Kerbal Space Program</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128382008' start='2024-01-03T11:00:00Z' type='bbm'>
+            <awayTeam id='150974'>
+                <teamName>Red Head</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128389757' start='2024-01-04T11:00:00Z' type='cup'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='188039'>
+                <teamName>uzhiu</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340562' start='2024-01-06T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='186273'>
+                <teamName>Magic Zone</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340577' start='2024-01-09T11:00:00Z' type='league.rs'>
+            <awayTeam id='188848'>
+                <teamName>TWT</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397154' start='2024-01-10T11:00:00Z' type='bbm'>
+            <awayTeam id='35353'>
+                <teamName>Pictave BB</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128404864' start='2024-01-11T11:00:00Z' type='cup'>
+            <awayTeam id='69623'>
+                <teamName>温州肯德基🐤</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340584' start='2024-01-13T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='70135'>
+                <teamName>怜子清如许；执子手不渝</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128419914' start='2024-01-16T11:00:00Z' type='cup'>
+            <awayTeam id='70075'>
+                <teamName>pianpi</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128412030' start='2024-01-17T11:00:00Z' type='bbm'>
+            <awayTeam id='41705'>
+                <teamName>Joe.City.Nets</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000149' start='2024-01-17T11:00:00Z' type='unknown'>
+            <awayTeam id='149'>
+                <teamName>Big 8</teamName>
+<score>175</score>
+            </awayTeam>
+            <homeTeam id='149'>
+                <teamName>Great 8</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128426274' start='2024-01-18T11:00:00Z' type='cup'>
+            <awayTeam id='187459'>
+                <teamName>大潮</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340591' start='2024-01-20T11:00:00Z' type='league.rs'>
+            <awayTeam id='187468'>
+                <teamName>邯郸江浩</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340598' start='2024-01-23T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>15</score>
+            </awayTeam>
+            <homeTeam id='188835'>
+                <teamName>明教</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128427546' start='2024-01-24T11:00:00Z' type='bbm.playoff'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128428101' start='2024-01-25T11:00:00Z' type='cup'>
+            <awayTeam id='189550'>
+                <teamName>无声铃鹿</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340609' start='2024-01-27T11:00:00Z' type='league.rs.tv'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='187068'>
+                <teamName>旭日冲天</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340617' start='2024-01-30T11:00:00Z' type='league.rs'>
+            <awayTeam id='186553'>
+                <teamName>☀️我们的队伍向太阳☀️</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128435130' start='2024-01-31T11:00:00Z' type='bbm.playoff'>
+            <awayTeam id='186553'>
+                <teamName>☀️我们的队伍向太阳☀️</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128435649' start='2024-02-01T11:00:00Z' type='cup.semi_or_final'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='187068'>
+                <teamName>旭日冲天</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340625' start='2024-02-03T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='70024'>
+                <teamName>Rio Grande Valley Vipers</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340633' start='2024-02-06T11:00:00Z' type='league.rs'>
+            <awayTeam id='187743'>
+                <teamName>公鸡</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128442461' start='2024-02-07T15:30:00Z' type='bbm.playoff'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='122561'>
+                <teamName>KK Pax 9e</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128448343' start='2024-02-08T11:00:00Z' type='friendly'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='52751'>
+                <teamName>Jungle Kings</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340639' start='2024-02-10T11:00:00Z' type='league.rs'>
+            <awayTeam id='25146'>
+                <teamName>专业废苗</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340646' start='2024-02-13T11:00:00Z' type='league.rs'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='69905'>
+                <teamName>suntianxia</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128454927' start='2024-02-15T11:00:00Z' type='friendly'>
+            <awayTeam id='70145'>
+                <teamName>半壁见海日-空中闻土鸡</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127340655' start='2024-02-17T11:00:00Z' type='league.rs'>
+            <awayTeam id='69750'>
+                <teamName>世俗总要男人无惧无畏</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128460548' start='2024-02-20T11:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='187743'>
+                <teamName>公鸡</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128532478' start='2024-02-22T11:00:00Z' type='friendly'>
+            <awayTeam id='275183'>
+                <teamName>Dinamo BC</teamName>
+<score>143</score>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128533418' start='2024-02-24T11:00:00Z' type='friendly'>
+            <awayTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='186273'>
+                <teamName>Magic Zone</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128613946' start='2024-02-29T11:00:00Z' type='friendly'>
+            <awayTeam id='70145'>
+                <teamName>半壁见海日-空中闻土鸡</teamName>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128565474' start='2024-03-02T11:00:00Z' type='friendly'>
+            <awayTeam id='186273'>
+                <teamName>Magic Zone</teamName>
+            </awayTeam>
+            <homeTeam id='187710'>
+                <teamName>桀骜牛仔</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

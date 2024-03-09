@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663584</MatchID>
+		<HomeTeam>
+			<ID>188694</ID>
+			<Name>龙虾</Name>
+			<ShortName>??</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>186208</ID>
+			<Name>Real vicky</Name>
+			<ShortName>Rea</ShortName>
+		</AwayTeam>
+		<ArenaName>青蛙池</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:40 PM</Time>
+    	<StartTime>5/4/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-5049439</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

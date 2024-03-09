@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='276461' season='63' retrieved='2024-02-28T19:33:22Z'>
+        <match id='127309242' start='2023-11-30T19:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='78109'>
+                <teamName>SMB Hismanal</teamName>
+<score>155</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289630' start='2023-12-02T19:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='277104'>
+                <teamName>Coffeeholics</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289637' start='2023-12-06T00:00:00Z' type='league.rs'>
+            <awayTeam id='276827'>
+                <teamName>Karmėlavos Talentai*</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128316044' start='2023-12-06T11:00:00Z' type='bbm'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='189267'>
+                <teamName>湖南街道办事处</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128274829' start='2023-12-08T00:00:00Z' type='cup'>
+            <awayTeam id='272169'>
+                <teamName>Abel Offense</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289644' start='2023-12-09T12:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='276068'>
+                <teamName>East Taiwan United II</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289655' start='2023-12-13T00:00:00Z' type='league.rs'>
+            <awayTeam id='276004'>
+                <teamName>Baby Sharks</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128327298' start='2023-12-14T00:00:00Z' type='bbm'>
+            <awayTeam id='155923'>
+                <teamName>Basket Adrense</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128344451' start='2023-12-14T20:00:00Z' type='cup'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='276188'>
+                <teamName>Legnano Basket Knights</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289662' start='2023-12-16T18:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='276175'>
+                <teamName>Malta Crusaders</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289671' start='2023-12-20T00:00:00Z' type='league.rs.tv'>
+            <awayTeam id='276813'>
+                <teamName>C.B. Steakhouse</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128354085' start='2023-12-20T14:00:00Z' type='bbm'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='276903'>
+                <teamName>Prekmurje Hotshots II</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128364723' start='2023-12-21T15:30:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='122247'>
+                <teamName>BC Uugi Kaagid</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289679' start='2023-12-24T00:00:00Z' type='league.rs'>
+            <awayTeam id='275640'>
+                <teamName>Kamnica Tigers II</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289686' start='2023-12-27T00:00:00Z' type='league.rs'>
+            <awayTeam id='276995'>
+                <teamName>Szolnok Pelicans II</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128373367' start='2023-12-28T00:00:00Z' type='bbm'>
+            <awayTeam id='276057'>
+                <teamName>Betelgeuse</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128379348' start='2023-12-28T15:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='39537'>
+                <teamName>Ashwini Twins</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289693' start='2023-12-30T17:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='276179'>
+                <teamName>The Mighty Clucks</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289700' start='2024-01-03T00:00:00Z' type='league.rs'>
+            <awayTeam id='276366'>
+                <teamName>Galatasaray II SM</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128388996' start='2024-01-04T00:00:00Z' type='bbm'>
+            <awayTeam id='158491'>
+                <teamName>Cortonese Supernova</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128393933' start='2024-01-04T19:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='78307'>
+                <teamName>Afiadores Ourense BBC</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289707' start='2024-01-07T00:00:00Z' type='league.rs.tv'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='276126'>
+                <teamName>Bombing Team II</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289714' start='2024-01-10T00:00:00Z' type='league.rs'>
+            <awayTeam id='276858'>
+                <teamName>BunnyShop</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128404146' start='2024-01-11T00:00:00Z' type='bbm'>
+            <awayTeam id='30990'>
+                <teamName>Brooklyn Elite</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128407912' start='2024-01-11T19:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='78261'>
+                <teamName>RCB Mallorca</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289721' start='2024-01-13T11:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='276047'>
+                <teamName>庐山升龙霸</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128418922' start='2024-01-17T18:30:00Z' type='bbm'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='85343'>
+                <teamName>BC Montigny</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061017722' start='2024-01-18T02:00:00Z' type='unknown'>
+            <awayTeam id='17722'>
+                <teamName>Big 8</teamName>
+<score>171</score>
+            </awayTeam>
+            <homeTeam id='17722'>
+                <teamName>Great 8</teamName>
+<score>173</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128423626' start='2024-01-18T18:05:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='93553'>
+                <teamName>West Coast Wizards</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289728' start='2024-01-21T00:00:00Z' type='league.rs'>
+            <awayTeam id='276334'>
+                <teamName>Homegrown BC</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289743' start='2024-01-23T19:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='276610'>
+                <teamName>广州队</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128430277' start='2024-01-25T23:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='24265'>
+                <teamName>Racing de Colon</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289750' start='2024-01-28T00:00:00Z' type='league.rs'>
+            <awayTeam id='277104'>
+                <teamName>Coffeeholics</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289757' start='2024-01-31T00:00:00Z' type='league.rs.tv'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='276827'>
+                <teamName>Karmėlavos Talentai*</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128437774' start='2024-02-01T16:30:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='27572'>
+                <teamName>Alfea</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289764' start='2024-02-04T00:00:00Z' type='league.rs'>
+            <awayTeam id='276068'>
+                <teamName>East Taiwan United II</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289775' start='2024-02-06T14:30:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='276004'>
+                <teamName>Baby Sharks</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128445104' start='2024-02-08T20:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='276454'>
+                <teamName>The Falling Whale</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289782' start='2024-02-11T00:00:00Z' type='league.rs'>
+            <awayTeam id='276175'>
+                <teamName>Malta Crusaders</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289791' start='2024-02-14T00:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='276813'>
+                <teamName>C.B. Steakhouse</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128452337' start='2024-02-15T16:55:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='36638'>
+                <teamName>A.S.P. Soul Messina</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128289799' start='2024-02-17T17:00:00Z' type='league.rs'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='275640'>
+                <teamName>Kamnica Tigers II</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128530167' start='2024-02-21T00:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='276827'>
+                <teamName>Karmėlavos Talentai*</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128532125' start='2024-02-22T18:30:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='87278'>
+                <teamName>Vaires Basket</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128560468' start='2024-02-25T02:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='276179'>
+                <teamName>The Mighty Clucks</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128561886' start='2024-03-01T01:00:00Z' type='friendly'>
+            <awayTeam id='276461'>
+                <teamName>Vesperia</teamName>
+            </awayTeam>
+            <homeTeam id='264281'>
+                <teamName>Twotone Touloose</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128619554' start='2024-03-03T02:00:00Z' type='friendly'>
+            <awayTeam id='276179'>
+                <teamName>The Mighty Clucks</teamName>
+            </awayTeam>
+            <homeTeam id='276461'>
+                <teamName>Vesperia</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

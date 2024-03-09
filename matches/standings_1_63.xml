@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='63' retrieved='2024-02-27T21:39:50Z'>
+        <league id='1' level='1'>NBBA</league>
+        <country id='1'>USA</country>
+        <regularSeason>
+            <conference>
+                <team id='31494'>
+                    <teamName>Splash Gang</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>2187</pf>
+                    <pa>1763</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='29977'>
+                    <teamName>Sofuegg</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2408</pf>
+                    <pa>1766</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='29193'>
+                    <teamName>Hayward Lumberjacks</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2345</pf>
+                    <pa>1800</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='31936'>
+                    <teamName>Eugene Register-Guard 2.0</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2228</pf>
+                    <pa>1943</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='28519'>
+                    <teamName>Rhino’s Rage</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2167</pf>
+                    <pa>1946</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='23321'>
+                    <teamName>Defenseless Babies</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>2240</pf>
+                    <pa>2174</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='23188'>
+                    <teamName>Deronimo</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>2128</pf>
+                    <pa>2217</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='30453'>
+                    <teamName>Florida Champs</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>975</pf>
+                    <pa>3327</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='28545'>
+                    <teamName>Desert Eagles</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2397</pf>
+                    <pa>1886</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='23061'>
+                    <teamName>Warroad</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2174</pf>
+                    <pa>1988</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='28977'>
+                    <teamName>Forza Jazz</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2211</pf>
+                    <pa>2057</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='31608'>
+                    <teamName>Flashover</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2118</pf>
+                    <pa>1900</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='30430'>
+                    <teamName>Wasted Potential</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2088</pf>
+                    <pa>1602</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='29656'>
+                    <teamName>Visionaries</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2259</pf>
+                    <pa>1935</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='24115'>
+                    <teamName>Knights of Autumn</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1633</pf>
+                    <pa>1967</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='23933'>
+                    <teamName>Allied Precise Gunmen</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>1249</pf>
+                    <pa>2536</pa>
+                    <isBot>0</isBot>
+                    <forfeits>1</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='128524596' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='31936'>
+                        <teamName>Eugene Register-Guard 2.0</teamName>
+<score>64</score>
+                    </awayTeam>
+                    <homeTeam id='31494'>
+                        <teamName>Splash Gang</teamName>
+<score>131</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524597' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='29193'>
+                        <teamName>Hayward Lumberjacks</teamName>
+<score>104</score>
+                    </awayTeam>
+                    <homeTeam id='29977'>
+                        <teamName>Sofuegg</teamName>
+<score>121</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524598' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='31608'>
+                        <teamName>Flashover</teamName>
+<score>88</score>
+                    </awayTeam>
+                    <homeTeam id='28545'>
+                        <teamName>Desert Eagles</teamName>
+<score>99</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524599' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='28977'>
+                        <teamName>Forza Jazz</teamName>
+<score>57</score>
+                    </awayTeam>
+                    <homeTeam id='23061'>
+                        <teamName>Warroad</teamName>
+<score>113</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='128558141' start='2024-02-25T01:00:00Z' type='league.semifinal'>
+                    <awayTeam id='29977'>
+                        <teamName>Sofuegg</teamName>
+<score>114</score>
+                    </awayTeam>
+                    <homeTeam id='31494'>
+                        <teamName>Splash Gang</teamName>
+<score>116</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128558142' start='2024-02-25T01:00:00Z' type='league.semifinal'>
+                    <awayTeam id='23061'>
+                        <teamName>Warroad</teamName>
+<score>96</score>
+                    </awayTeam>
+                    <homeTeam id='28545'>
+                        <teamName>Desert Eagles</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='128615056' start='2024-02-28T01:00:00Z' type='league.final'>
+                    <awayTeam id='28545'>
+                        <teamName>Desert Eagles</teamName>
+                    </awayTeam>
+                    <homeTeam id='31494'>
+                        <teamName>Splash Gang</teamName>
+                    </homeTeam>
+                </match>
+                
+                <match id='128615057' start='2024-03-03T01:00:00Z' type='league.final'>
+                    <awayTeam id='31494'>
+                        <teamName>Splash Gang</teamName>
+                    </awayTeam>
+                    <homeTeam id='28545'>
+                        <teamName>Desert Eagles</teamName>
+                    </homeTeam>
+                </match>
+                
+                <match id='128615058' start='2024-03-04T01:00:00Z' type='league.final'>
+                    <awayTeam id='28545'>
+                        <teamName>Desert Eagles</teamName>
+                    </awayTeam>
+                    <homeTeam id='31494'>
+                        <teamName>Splash Gang</teamName>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='128524600' start='2024-02-21T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='24115'>
+                        <teamName>Knights of Autumn</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='28519'>
+                        <teamName>Rhino’s Rage</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524603' start='2024-02-21T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='23188'>
+                        <teamName>Deronimo</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='30430'>
+                        <teamName>Wasted Potential</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524606' start='2024-02-21T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='23321'>
+                        <teamName>Defenseless Babies</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='29656'>
+                        <teamName>Visionaries</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524601' start='2024-02-25T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='28519'>
+                        <teamName>Rhino’s Rage</teamName>
+<score>68</score>
+                    </awayTeam>
+                    <homeTeam id='24115'>
+                        <teamName>Knights of Autumn</teamName>
+<score>84</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524604' start='2024-02-25T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='30430'>
+                        <teamName>Wasted Potential</teamName>
+<score>106</score>
+                    </awayTeam>
+                    <homeTeam id='23188'>
+                        <teamName>Deronimo</teamName>
+<score>116</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524607' start='2024-02-25T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='29656'>
+                        <teamName>Visionaries</teamName>
+<score>107</score>
+                    </awayTeam>
+                    <homeTeam id='23321'>
+                        <teamName>Defenseless Babies</teamName>
+<score>75</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524602' start='2024-02-28T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='24115'>
+                        <teamName>Knights of Autumn</teamName>
+                    </awayTeam>
+                    <homeTeam id='28519'>
+                        <teamName>Rhino’s Rage</teamName>
+                    </homeTeam>
+                </match>
+                
+                <match id='128524605' start='2024-02-28T01:00:00Z' type='league.relegation'>
+                    <awayTeam id='23188'>
+                        <teamName>Deronimo</teamName>
+                    </awayTeam>
+                    <homeTeam id='30430'>
+                        <teamName>Wasted Potential</teamName>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+        
+    </standings>
+</bbapi>

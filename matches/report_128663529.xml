@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663529</MatchID>
+		<HomeTeam>
+			<ID>25418</ID>
+			<Name>鬼鬼鬼</Name>
+			<ShortName>???</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188231</ID>
+			<Name>AKAxuan</Name>
+			<ShortName>AKA</ShortName>
+		</AwayTeam>
+		<ArenaName>鬼鬼</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:40 PM</Time>
+    	<StartTime>4/6/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2630359</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

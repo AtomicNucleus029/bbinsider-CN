@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663633</MatchID>
+		<HomeTeam>
+			<ID>25409</ID>
+			<Name>RRL</Name>
+			<ShortName>RRL</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>69320</ID>
+			<Name>小三轮</Name>
+			<ShortName>XSL</ShortName>
+		</AwayTeam>
+		<ArenaName>Thompson-Boling Arena</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:20:26 PM</Time>
+    	<StartTime>5/25/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-6863973</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

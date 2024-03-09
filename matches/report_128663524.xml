@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<BBData>
+		<MatchID>128663524</MatchID>
+		<HomeTeam>
+			<ID>188694</ID>
+			<Name>龙虾</Name>
+			<ShortName>??</ShortName>
+		</HomeTeam>
+		<AwayTeam>
+			<ID>188883</ID>
+			<Name>夏洛特黄蜂</Name>
+			<ShortName>CHA</ShortName>
+		</AwayTeam>
+		<ArenaName>青蛙池</ArenaName>
+		
+				
+	    
+		<Time>3/6/2024 7:22:10 PM</Time>
+    	<StartTime>4/2/2024 6:00:00 AM</StartTime>
+	    <ElapsedSeconds>-2284669</ElapsedSeconds>
+	    <ReportString></ReportString>
+	    <CourtURL></CourtURL>
+	    <LinesColors></LinesColors>
+	    <HomeShotColors></HomeShotColors>
+	    <AwayShotColors></AwayShotColors>
+	</BBData>
+	

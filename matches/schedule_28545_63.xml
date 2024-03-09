@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='28545' season='63' retrieved='2024-02-27T21:40:29Z'>
+        <match id='127308358' start='2023-12-01T01:00:00Z' type='friendly'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='30657'>
+                <teamName>The White Walkers</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090174' start='2023-12-02T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='266152'>
+                <teamName>ExplosiveBubbleWrap</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310851' start='2023-12-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310859' start='2023-12-06T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128309861' start='2023-12-07T01:00:00Z' type='bbm'>
+            <awayTeam id='114283'>
+                <teamName>$uperiors</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127312026' start='2023-12-08T01:00:00Z' type='cup'>
+            <awayTeam id='29303'>
+                <teamName>Alimighty Tigers</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090181' start='2023-12-09T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='28147'>
+                <teamName>Jim Almeidas Janitor Crew</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310867' start='2023-12-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310875' start='2023-12-13T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128320778' start='2023-12-14T01:00:00Z' type='bbm'>
+            <awayTeam id='69905'>
+                <teamName>suntianxia</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128343599' start='2023-12-15T01:00:00Z' type='cup'>
+            <awayTeam id='30191'>
+                <teamName>Whalerss</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090190' start='2023-12-16T00:00:00Z' type='pl.rs'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310883' start='2023-12-17T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310891' start='2023-12-20T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128347685' start='2023-12-20T17:35:00Z' type='bbm'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128363186' start='2023-12-22T01:00:00Z' type='cup'>
+            <awayTeam id='23809'>
+                <teamName>Temp Hurricanes</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090199' start='2023-12-23T00:00:00Z' type='pl.rs'>
+            <awayTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310899' start='2023-12-24T01:00:00Z' type='league.rs'>
+            <awayTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>147</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310903' start='2023-12-27T01:00:00Z' type='league.rs'>
+            <awayTeam id='23188'>
+                <teamName>Deronimo</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128366451' start='2023-12-27T15:30:00Z' type='bbm'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='123010'>
+                <teamName>heeringas</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090208' start='2023-12-30T00:00:00Z' type='pl.rs'>
+            <awayTeam id='271435'>
+                <teamName>Chicago Nightmare</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310918' start='2023-12-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='29193'>
+                <teamName>Hayward Lumberjacks</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310925' start='2024-01-03T01:00:00Z' type='league.rs'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128382364' start='2024-01-03T18:35:00Z' type='bbm'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='90420'>
+                <teamName>RSC Eagles</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090217' start='2024-01-06T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='23193'>
+                <teamName>Case Cardinals</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310932' start='2024-01-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='23321'>
+                <teamName>Defenseless Babies</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310939' start='2024-01-10T01:00:00Z' type='league.rs'>
+            <awayTeam id='30453'>
+                <teamName>Florida Champs</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>169</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128397219' start='2024-01-10T15:30:00Z' type='bbm'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='178161'>
+                <teamName>BC LAZERIS</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090226' start='2024-01-13T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='31184'>
+                <teamName>ETBU Tigers</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310946' start='2024-01-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='28519'>
+                <teamName>Rhino’s Rage</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128412473' start='2024-01-17T23:00:00Z' type='bbm'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='24234'>
+                <teamName>Atenas10</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1061000001' start='2024-01-18T01:00:00Z' type='unknown'>
+            <awayTeam id='1'>
+                <teamName>Great 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='1'>
+                <teamName>Big 8</teamName>
+<score>182</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128425165' start='2024-01-19T01:00:00Z' type='friendly'>
+            <awayTeam id='231796'>
+                <teamName>Bombing Team</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090235' start='2024-01-20T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='28345'>
+                <teamName>Wilmington Tiger Sharks</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310953' start='2024-01-21T01:00:00Z' type='league.rs'>
+            <awayTeam id='29977'>
+                <teamName>Sofuegg</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310960' start='2024-01-24T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='31936'>
+                <teamName>Eugene Register-Guard 2.0</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128427536' start='2024-01-24T19:00:00Z' type='bbm.playoff'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='76209'>
+                <teamName>yeahh</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090244' start='2024-01-27T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>140</score>
+            </awayTeam>
+            <homeTeam id='264989'>
+                <teamName>Resurrected Fury</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310971' start='2024-01-28T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310979' start='2024-01-31T01:00:00Z' type='league.rs'>
+            <awayTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090252' start='2024-02-03T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28488'>
+                <teamName>Drunken Sconnies</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310987' start='2024-02-04T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>146</score>
+            </awayTeam>
+            <homeTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>25</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127310995' start='2024-02-07T01:00:00Z' type='league.rs'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090259' start='2024-02-10T00:00:00Z' type='pl.rs'>
+            <awayTeam id='29549'>
+                <teamName>R3AP3RS</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311003' start='2024-02-11T01:00:00Z' type='league.rs.tv'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311011' start='2024-02-14T01:00:00Z' type='league.rs'>
+            <awayTeam id='29656'>
+                <teamName>Visionaries</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090266' start='2024-02-17T00:00:00Z' type='pl.rs'>
+            <awayTeam id='30640'>
+                <teamName>Mountain Eagles</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127311019' start='2024-02-18T01:00:00Z' type='league.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='23933'>
+                <teamName>Allied Precise Gunmen</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128524598' start='2024-02-21T01:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='31608'>
+                <teamName>Flashover</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128555846' start='2024-02-23T01:00:00Z' type='friendly'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='30640'>
+                <teamName>Mountain Eagles</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='127090273' start='2024-02-24T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128558142' start='2024-02-25T01:00:00Z' type='league.semifinal'>
+            <awayTeam id='23061'>
+                <teamName>Warroad</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='128615056' start='2024-02-28T01:00:00Z' type='league.final'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='127090280' start='2024-03-02T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28301'>
+                <teamName>Cassville Yuck</teamName>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128615057' start='2024-03-03T01:00:00Z' type='league.final'>
+            <awayTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='128615058' start='2024-03-04T01:00:00Z' type='league.final'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='127090287' start='2024-03-09T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28530'>
+                <teamName>Alaska Alphas</teamName>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='127090294' start='2024-03-16T00:00:00Z' type='pl.rs'>
+            <awayTeam id='266152'>
+                <teamName>ExplosiveBubbleWrap</teamName>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='127090301' start='2024-03-23T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28147'>
+                <teamName>Jim Almeidas Janitor Crew</teamName>
+            </awayTeam>
+            <homeTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='127090310' start='2024-03-30T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </awayTeam>
+            <homeTeam id='31494'>
+                <teamName>Splash Gang</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='127090319' start='2024-04-06T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </awayTeam>
+            <homeTeam id='30430'>
+                <teamName>Wasted Potential</teamName>
+            </homeTeam>
+        </match>
+    
+        <match id='127090328' start='2024-04-13T00:00:00Z' type='pl.rs'>
+            <awayTeam id='28545'>
+                <teamName>Desert Eagles</teamName>
+            </awayTeam>
+            <homeTeam id='271435'>
+                <teamName>Chicago Nightmare</teamName>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	
