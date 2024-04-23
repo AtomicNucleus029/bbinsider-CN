@@ -17,7 +17,8 @@
 * 如下指令用于获取单场比赛(需要比赛ID)的分析报告，储存于results文件夹中
   - `python.exe main.py --print-stats --print-events --matchid 128565480`
 * 如下指令用于获取某联赛(需要联赛ID，可从网址中获取)某赛季的分析报告，需要输入自己的账号与数据访问密码(同Buzzer-manager)
-  - `python.exe season.py --username XXX --password YYY --leagueid 149 --season 63`
+  - `python.exe season.py --username XXX --password YYY --leagueid 149 --season 63 --gamelimit 1 --minutelimit 5`
+  - 可以在--gamelimit和--minutelimit参数后设置出场次数和场均出场时间的阈值，出场较少的球员将被排除
 
 ### Linux 
 * 安装python和所需的package，在terminal中运行
@@ -32,7 +33,8 @@
 * 如下指令用于获取单场比赛(需要比赛ID)的分析报告，储存于results文件夹中
   - `python3.10 ./main.py --print-stats --print-events --matchid 128565480`
 * 如下指令用于获取某联赛(需要联赛ID，可从网址中获取)某赛季的分析报告，需要输入自己的账号与数据访问密码(同Buzzer-manager)
-  - `python3.10 ./main.py --username XXX --password YYY --leagueid 149 --season 63`
+  - `python3.10 ./main.py --username XXX --password YYY --leagueid 149 --season 63 --gamelimit 1 --minutelimit 5`
+  - 可以在--gamelimit和--minutelimit参数后设置出场次数和场均出场时间的阈值，出场较少的球员将被排除
 
 ### Mac
 * 安装python和所需的package，在terminal中运行
@@ -44,4 +46,8 @@
 * 如下指令用于获取单场比赛(需要比赛ID)的分析报告，储存于results文件夹中
   - `python ./main.py --print-stats --print-events --matchid 128565480`
 * 如下指令用于获取某联赛(需要联赛ID，可从网址中获取)某赛季的分析报告，需要输入自己的账号与数据访问密码(同Buzzer-manager)
-  - `python ./main.py --username XXX --password YYY --leagueid 149 --season 63`
+  - `python ./main.py --username XXX --password YYY --leagueid 149 --season 63 --gamelimit 1 --minutelimit 5`
+  - 可以在--gamelimit和--minutelimit参数后设置出场次数和场均出场时间的阈值，出场较少的球员将被排除
+
+### 一些说明
+* 

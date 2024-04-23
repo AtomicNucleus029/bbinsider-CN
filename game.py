@@ -278,6 +278,7 @@ class Game:
                     for player in att_team.active:
                         player.add_stats(Statistic.PlusMinus, pts)
                         player.add_stats(Statistic.TeamPtsGet, pts)
+                        player.add_stats(Statistic.TeamShotsMade, 1)
                     for player in def_team.active:
                         player.add_stats(Statistic.PlusMinus, -pts)
                         player.add_stats(Statistic.TeamPtsLost, pts)
@@ -489,11 +490,11 @@ class Game:
                 for ext in self.extensions:
                     ext.on_break_event(self, bev)
 
-            # Update possesion when last free throw (not an and-one) is made
+            # Update possesion when last free throw is made
             if (not isinstance(bev, FreeThrowEvent) 
                 and isinstance(prev_bev, FreeThrowEvent) 
                 and not isinstance(bev, SubEvent)
-                and prev_shot.has_missed()):
+                ):
                 if prev_bev.has_scored():
                     self.add_possession_to_stat(def_team, prev_bev.attacker)
 

@@ -52,7 +52,8 @@ class Statistic(IntEnum):
     TeamDefRebounds = 48
     OppOffRebounds = 49
     OppDefRebounds = 50
-    GamePlayed = 51
+    TeamShotsMade = 51
+    GamePlayed = 52
 
 class StatSheet:
     def __init__(self) -> None:

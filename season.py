@@ -113,7 +113,7 @@ class Season:
                                       np.float64(pstat[Statistic.AssistedShotAtt]) / pstat[Statistic.GamePlayed],
                                       np.float64(pstat[Statistic.AssistedShotMade]) / pstat[Statistic.AssistedShotAtt],
                                       np.float64(pstat[Statistic.AssistedShotAtt]) / pstat[Statistic.FieldGoalsAtt],
-                                      np.float64(pstat[Statistic.Assists]) / (pstat[Statistic.Seconds] / tstat[Statistic.Seconds] * tstat[Statistic.FieldGoalsMade] - pstat[Statistic.FieldGoalsMade]),
+                                      np.float64(pstat[Statistic.Assists]) / (pstat[Statistic.TeamShotsMade] - pstat[Statistic.FieldGoalsMade]),
                                       np.float64(pstat[Statistic.Assists]) / pstat[Statistic.Turnovers],
                                       np.float64(pstat[Statistic.OffRebounds]) / (pstat[Statistic.TeamOffRebounds] + pstat[Statistic.OppDefRebounds]), # 攻板率
                                       np.float64(pstat[Statistic.DefRebounds]) / (pstat[Statistic.TeamDefRebounds] + pstat[Statistic.OppOffRebounds]), # 防板率
