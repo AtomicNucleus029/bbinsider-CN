@@ -6,6 +6,7 @@ from team import Team
 from player import Player
 from stats import *
 from os.path import exists
+from os import makedirs
 
 class Network:
     def __init__(self):
@@ -93,6 +94,9 @@ class BBApi:
     def get_xml_standings(self, leagueid: int, season: int) -> str:
 
         path = f"matches/standings_{leagueid}_{season}.xml"
+
+        if not exists('matches/'):
+            makedirs('matches/')
 
         if exists(path):
             with open(path, mode="r", encoding='utf-8') as f:
